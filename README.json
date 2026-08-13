@@ -1,0 +1,1313 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "macroquad",
+          "description": "simple to use library from author of miniquad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-05T07:22:42Z",
+            "owner": "not-fl3",
+            "repo": "macroquad",
+            "stars": 4578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "miniquad",
+          "description": "main crate, engines below build on top of it. Supports WASM. Therefore everything build on top of it supports WASM too.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-25T17:52:01Z",
+            "owner": "not-fl3",
+            "repo": "miniquad",
+            "stars": 2044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emerald",
+          "description": "game engine with physics, audio, graphics, ECS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-11-24T19:53:19Z",
+            "owner": "Bombfuse",
+            "repo": "emerald",
+            "stars": 551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "good-web-game",
+          "description": "crate to easily port your ggez to WASM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-05-24T18:31:00Z",
+            "owner": "ggez",
+            "repo": "good-web-game",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-rpg-toolkit",
+          "description": "a framework for creating customizable and user modifiable action RPG's, using Rust and/or JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-03-08T20:12:18Z",
+            "owner": "olefasting",
+            "repo": "rust_rpg_toolkit",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omegaquad",
+          "description": "hackable, opinionated layer on top of Macroquad for writing games",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-11-10T03:41:35Z",
+            "owner": "gamma-delta",
+            "repo": "omegaquad",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Game engines"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Games"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zemeroth",
+          "description": "turn-based hexagonal tactical game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-03-26T19:07:25Z",
+            "owner": "ozkriff",
+            "repo": "zemeroth",
+            "stars": 1454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fish Game",
+          "description": "online multiplayer game, created as a demonstration of Nakama, an open-source scalable game server.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2022-05-23T11:05:46Z",
+            "owner": "heroiclabs",
+            "repo": "fishgame-macroquad",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rusty Demon Attack",
+          "description": "game inspired by the classic atari game: demon attack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-11-14T12:40:24Z",
+            "owner": "TanTanDev",
+            "repo": "rusty_demon_attack",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RecWars",
+          "description": "a multiplayer top-down tank shooter playable in browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-04-17T23:20:04Z",
+            "owner": "martin-t",
+            "repo": "rec-wars",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unnamed rogue-like by ProfAndreaPollini",
+          "description": "a WIP rl done as part of \"RogueLikeDev Does the Complete Roguelike Tutorial\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-08-04T20:51:00Z",
+            "owner": "ProfAndreaPollini",
+            "repo": "roguelike-rust-macroquad-noname",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cubedesu",
+          "description": "Rubik's Cube simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-04-29T03:37:39Z",
+            "owner": "stanleydesu",
+            "repo": "cubedesu",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Planetoid",
+          "description": "a toy project with a goal of creating a multiplayer asteroid game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-03-06T06:58:05Z",
+            "owner": "uggla",
+            "repo": "planetoid",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CyberSub",
+          "description": "a 2D submarine simulation prototype.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-01-06T19:55:11Z",
+            "owner": "andreivasiliu",
+            "repo": "cybersub",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tigris and Euphrates",
+          "description": "a Rust implementation of T&E Board game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-01T09:33:50Z",
+            "owner": "0b01",
+            "repo": "tigris-and-euphrates",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Caveth",
+          "description": "a game where you can shoot enemies with a cannon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-08-13T01:28:55Z",
+            "owner": "Dequog",
+            "repo": "caveth",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bunner Macroquad",
+          "description": "an implementation in Rust+Macroquad of the game Bunner from Code the Classics vol 1.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-20T19:18:27Z",
+            "owner": "ollej",
+            "repo": "rust-bunner-macroquad",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dangerous Dave: Rust Ed.",
+          "description": "a 2D platformer game inspired by the classic \"Dangerous Dave\" game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-11-21T02:31:53Z",
+            "owner": "oawad79",
+            "repo": "dave-rs",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quoridor",
+          "description": "Quoridor implemented in Rust and Macroquad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-07-13T10:00:18Z",
+            "owner": "baehyunsol",
+            "repo": "Quoridor-rs",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stunning barnacle",
+          "description": "a simulator of primitive artificial life using attraction/reuplsion forces between many particles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-09-18T14:19:00Z",
+            "owner": "LittleB0xes",
+            "repo": "stunning_barnacle",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Isometric Minecraft",
+          "description": "an isometric Minecraft-like prototype.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-05T11:09:29Z",
+            "owner": "bioastroiner",
+            "repo": "isometric_minecraft",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Excavation Site Alpha",
+          "description": "build as far down into the earth as you can for LD48.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-04-25T20:57:17Z",
+            "owner": "gamma-delta",
+            "repo": "excavation-site-alpha",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rusty_life",
+          "description": "another Game Of Life made with Rust and Macroquad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-09-24T19:18:07Z",
+            "owner": "LittleB0xes",
+            "repo": "rusty_life",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Missile Command",
+          "description": "A simple missile command game clone from 80's Atari.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-01-27T07:35:23Z",
+            "owner": "buraksenyurt",
+            "repo": "missile-command",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pong-macroquad-hecs",
+          "description": "a \"BLAZINGLY FAST\" Pong clone implemented using Macroquad and hecs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-01-09T08:03:59Z",
+            "owner": "j0of",
+            "repo": "pong-macroquad-hecs",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "onitama_macroquad",
+          "description": "Onitama implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-29T04:48:53Z",
+            "owner": "scpchicken",
+            "repo": "onitama_macroquad",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quad_sokoban",
+          "description": "a sokoban game featuring a campaign and a level editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-09-14T05:47:39Z",
+            "owner": "puppysh43",
+            "repo": "quad_sokoban",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Games: On top of macroquad"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Soldank",
+          "description": "a remake of Soldat game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-29T20:57:32Z",
+            "owner": "smokku",
+            "repo": "soldank",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fermi Paradox",
+          "description": "arcanoid-like game with moving enemies in space.",
+          "children": []
+        }
+      ],
+      "title": "Games: On top of miniquad"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Apps or visualizations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Portal Explorer",
+          "description": "web visualizator of mind-blowing portals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-28T17:46:05Z",
+            "owner": "optozorax",
+            "repo": "portal",
+            "stars": 549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FDG",
+          "description": "a Force Directed Graph framework with a macroqad-based visualizator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-03-06T01:39:14Z",
+            "owner": "grantshandy",
+            "repo": "fdg",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cacophony",
+          "description": "a minimalist and ergonomic MIDI sequencer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-12-10T15:50:05Z",
+            "owner": "subalterngames",
+            "repo": "cacophony",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PID Controller Simualation",
+          "description": "a Proportional-Integral-Derivative controller simulation to balance a ball on cart.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-09-25T22:43:36Z",
+            "owner": "sparshg",
+            "repo": "pid-balancer",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tarsila",
+          "description": "pixelart and spritesheet editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-27T15:51:09Z",
+            "owner": "yds12",
+            "repo": "tarsila",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuzzy Drone Controller",
+          "description": "a controller that uses Mamdani Fuzzy inference system to control a drone, simulated using a physics engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-10-23T09:38:13Z",
+            "owner": "sparshg",
+            "repo": "fuzzy-controller",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rusty Slider",
+          "description": "markdown slideshow viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-20T19:05:20Z",
+            "owner": "ollej",
+            "repo": "rusty-slider",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Escape",
+          "description": "AI plays a small escape room game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-05-14T14:19:48Z",
+            "owner": "bones-ai",
+            "repo": "rust-escape-ai",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sbixel",
+          "description": "A simple pixel physics simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-07T14:15:40Z",
+            "owner": "gale93",
+            "repo": "sbixel",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flappy Bird AI",
+          "description": "AI learns to play flappy bird using neuro-evolution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-03-23T14:59:19Z",
+            "owner": "bones-ai",
+            "repo": "rust-flappy-bird-ai",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rusty Aquarium",
+          "description": "a monitoring visualization as an aquarium.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-20T21:23:05Z",
+            "owner": "ollej",
+            "repo": "rusty-aquarium",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sugarcubes",
+          "description": "a tool for designing and testing automata.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-03-31T14:37:44Z",
+            "owner": "henryksloan",
+            "repo": "sugarcubes",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sugarcubes",
+          "description": "a library and application for automata and formal languages, inspired by JFLAP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-03-31T14:37:44Z",
+            "owner": "henryksloan",
+            "repo": "sugarcubes",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eportal",
+          "description": "an evolution simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-12-23T22:57:57Z",
+            "owner": "kul-sudo",
+            "repo": "eportal",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bema",
+          "description": "slideshow DSL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-04-30T16:15:11Z",
+            "owner": "yazgoo",
+            "repo": "bema",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shell Texturing Toy",
+          "description": "an interactive shell texturing demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-11-13T19:15:51Z",
+            "owner": "gre-v-el",
+            "repo": "Shell-Texturing",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evolution-rs",
+          "description": "simulating the evolution of tiny neural networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-26T19:50:28Z",
+            "owner": "kostareg",
+            "repo": "nervana",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interactive Particles",
+          "description": "a playground to interact with particles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-01-12T15:53:35Z",
+            "owner": "cppxor2arr",
+            "repo": "InteractiveParticles",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Particles editor",
+          "description": "for your games in macroquad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-07-17T05:04:37Z",
+            "owner": "not-fl3",
+            "repo": "particles-editor",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fish flocking simulation",
+          "description": "a 2D fish flocking simulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-09-08T08:15:41Z",
+            "owner": "eckyputrady",
+            "repo": "fish-flocking-simulation",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Particle Life",
+          "description": "a particle simulation inspired by Jeffrey Ventrella's Clusters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-12-04T20:51:06Z",
+            "owner": "Markek1",
+            "repo": "particle-life",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collision simulator",
+          "description": "simulating correct particle collisions and algorithms to detect them efficiently.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-08-20T10:11:58Z",
+            "owner": "Markek1",
+            "repo": "Collision-Simulator",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lorenz Attractor",
+          "description": "a Rust implementation and visualization of the Lorenz Attractor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-03-11T18:16:57Z",
+            "owner": "guydols",
+            "repo": "Lorenz_Attractor",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TawnyAV",
+          "description": "Live audio-visual software built on macroquad designed to display dynamic visualizations based on audio captured from a microphone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-04-18T16:45:03Z",
+            "owner": "LeonStansfield",
+            "repo": "tawnyAV",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adambiltcliffe/macroquad-jfa",
+          "description": "a PoC demonstration of using the jump flood algorithm to generate outlines around shapes on the GPU using only macroquad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-08-28T18:50:17Z",
+            "owner": "adambiltcliffe",
+            "repo": "macroquad-jfa",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Apps or visualizations: On top of macroquad"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "With naia",
+          "description": "a cross-platform (including Wasm!) networking engine built in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T07:50:02Z",
+            "owner": "naia-lib",
+            "repo": "naia",
+            "stars": 1165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "With nakama",
+          "description": "open-source scalable game server.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2022-05-23T11:05:46Z",
+            "owner": "heroiclabs",
+            "repo": "fishgame-macroquad",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "*quad Android playground",
+          "description": "a collection of Android shenanigans as one single app. Useful to test *quads compatibility with a given android phone and do regression testing on anything related to Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-09-05T01:18:08Z",
+            "owner": "not-fl3",
+            "repo": "quad-android-playground",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JS interop",
+          "description": "as example for writing your own plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-03-21T23:39:56Z",
+            "owner": "not-fl3",
+            "repo": "miniquad-js-interop-demo",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macroquad_quickstart",
+          "description": "an opinionated template for buiding games in Rust with Macroquad, specfically focused on targeting the web and PC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-18T19:56:56Z",
+            "owner": "brettchalupa",
+            "repo": "macroquad_quickstart",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wasm-bindgen interop",
+          "description": "good-web-game + wasm-bindgen example",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-20T17:29:51Z",
+            "owner": "smokku",
+            "repo": "gwg-bindgen",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "miniquad_kaios_tests",
+          "description": "example apps for miniquad to run on KaiOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-01T14:04:18Z",
+            "owner": "birhburh",
+            "repo": "miniquad_kaios_tests",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Example usage"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "egui-macroquad",
+          "description": "egui in macroquad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-05-21T20:29:35Z",
+            "owner": "optozorax",
+            "repo": "egui-macroquad",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "egui-miniquad",
+          "description": "egui in miniquad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-04T07:33:41Z",
+            "owner": "not-fl3",
+            "repo": "egui-miniquad",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cvars-console-macroquad",
+          "description": "in-game console for changing cvars at runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-11-15T20:33:22Z",
+            "owner": "martin-t",
+            "repo": "cvars",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bevy_miniquad",
+          "description": "bevy + miniquad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-04-01T14:27:07Z",
+            "owner": "smokku",
+            "repo": "bevy_miniquad",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nonaquad",
+          "description": "vector anti-aliased graphics renderer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-02-18T22:24:36Z",
+            "owner": "nokola",
+            "repo": "nonaquad",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "backer",
+          "description": "a 'plug & play' UI layout crate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-30T15:39:36Z",
+            "owner": "cyypherus",
+            "repo": "backer",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "miniquad_text_rusttype",
+          "description": "rusttype in miniquad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-03-01T01:29:46Z",
+            "owner": "not-fl3",
+            "repo": "miniquad_text_rusttype",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imgui-miniquad-render",
+          "description": "imgui-rs in miniquad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-10-17T09:35:01Z",
+            "owner": "not-fl3",
+            "repo": "imgui-miniquad-render",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macroquad_rapier_interface",
+          "description": "Rapier2D + macroquad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-04-02T19:20:25Z",
+            "owner": "Kenkron",
+            "repo": "macroquad_rapier_interface",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "femtovg",
+          "description": "antialiased 2D vector drawing library (miniquad port).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-08-24T20:02:00Z",
+            "owner": "smokku",
+            "repo": "femtovg",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Libraries: Integrations"
+    },
+    {
+      "description": "Plugin has additional file, so to use it, you need to do extra work. Before deploying of your project on WASM, you could look at your dependencies using and if you find these crates, add file from them.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "quad-snd",
+          "description": "to play sound.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-13T06:31:18Z",
+            "owner": "not-fl3",
+            "repo": "quad-snd",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quad-storage",
+          "description": "to save data in persistent storage using Web Storage API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-09-08T13:26:25Z",
+            "owner": "optozorax",
+            "repo": "quad-storage",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quad-net",
+          "description": "to use network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-23T16:51:48Z",
+            "owner": "not-fl3",
+            "repo": "quad-net",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gamepads",
+          "description": "to access gamepads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-25T21:54:47Z",
+            "owner": "fornwall",
+            "repo": "gamepads",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sapp-jsutils",
+          "description": "to build plugins. If you want to send/receive string or arbitrary object to JS, you should look at this.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-09-10T14:29:16Z",
+            "owner": "not-fl3",
+            "repo": "sapp-jsutils",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quad-url",
+          "description": "to change current url, search parameters, and open links.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-05-21T19:07:20Z",
+            "owner": "optozorax",
+            "repo": "quad-url",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Libraries: Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "graplot",
+          "description": "an experimental plotting library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-02-27T20:34:10Z",
+            "owner": "elftausend",
+            "repo": "graplot",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "circle2d",
+          "description": "little physics library with only circles, used in Crate Before Attack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-10-15T20:22:21Z",
+            "owner": "koalefant",
+            "repo": "circle2d",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vviz",
+          "description": "a rapid prototyping GUI and visual printf-style debugging for computer vision development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-04-18T19:10:24Z",
+            "owner": "strasdat",
+            "repo": "vviz",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quad-rand",
+          "description": "wasm-friendly random number generator for quads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-04T14:04:44Z",
+            "owner": "not-fl3",
+            "repo": "quad-rand",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quad-gif",
+          "description": "library for displaying looping GIF animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-10T21:13:52Z",
+            "owner": "ollej",
+            "repo": "quad-gif",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nanoshredder",
+          "description": "an experimental fork of makepad's shader-compiler that compiles rust-like DSL into GLSL, Metal, and HLSL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-02-23T05:39:38Z",
+            "owner": "not-fl3",
+            "repo": "nanoshredder",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "navni",
+          "description": "a textmode/pixel graphics display library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-22T18:30:36Z",
+            "owner": "rsaarelm",
+            "repo": "navni",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gesture-recognizer",
+          "description": "library for recognizing simple touch gestures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-02-04T13:08:15Z",
+            "owner": "optozorax",
+            "repo": "gesture-recognizer",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sapp-console-log",
+          "description": "log-rs compatible logging for sapp-wasm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-02-07T21:36:51Z",
+            "owner": "canadaduane",
+            "repo": "sapp-console-log",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quad-svg",
+          "description": "renders svg to macroquad's Texture2D using resvg.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-05-22T11:59:23Z",
+            "owner": "macnelly",
+            "repo": "quad-svg",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sparticles-rs",
+          "description": "library for making particle systems.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-10-25T10:43:29Z",
+            "owner": "Norlock",
+            "repo": "sparticles-rs",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macroquad_aspect",
+          "description": "an aspect ratio forcer for macroquad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-14T23:41:24Z",
+            "owner": "TheEmeraldBee",
+            "repo": "macroquad_aspect",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Libraries: Other"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:43.941Z",
+    "original_repository": "ozkriff/awesome-quads",
+    "original_repository_sha": "c4c9927142a3934d6e18756a322b9795a9c51691",
+    "enhanced_repository": "enhansome/enhansome-quads",
+    "enhanced_repository_description": null,
+    "title": "Awesome Quads with stars"
+  }
+}
