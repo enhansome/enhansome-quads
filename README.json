@@ -14,7 +14,7 @@
             "last_commit": "2026-08-05T07:22:42Z",
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4578
+            "stars": 4579
           }
         },
         {
@@ -437,10 +437,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-28T17:46:05Z",
+            "last_commit": "2026-08-13T13:33:30Z",
             "owner": "optozorax",
             "repo": "portal",
-            "stars": 549
+            "stars": 550
           }
         },
         {
@@ -1303,7 +1303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:06:43.941Z",
+    "last_updated": "2026-08-14T02:36:33.443Z",
     "original_repository": "ozkriff/awesome-quads",
     "original_repository_sha": "c4c9927142a3934d6e18756a322b9795a9c51691",
     "enhanced_repository": "enhansome/enhansome-quads",
