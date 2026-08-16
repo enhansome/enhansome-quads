@@ -14,7 +14,7 @@
             "last_commit": "2026-08-05T07:22:42Z",
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4580
+            "stars": 4582
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2024-03-26T19:07:25Z",
             "owner": "ozkriff",
             "repo": "zemeroth",
-            "stars": 1454
+            "stars": 1455
           }
         },
         {
@@ -440,7 +440,7 @@
             "last_commit": "2026-08-13T13:33:30Z",
             "owner": "optozorax",
             "repo": "portal",
-            "stars": 550
+            "stars": 551
           }
         },
         {
@@ -905,7 +905,7 @@
             "last_commit": "2025-05-21T20:29:35Z",
             "owner": "optozorax",
             "repo": "egui-macroquad",
-            "stars": 126
+            "stars": 127
           }
         },
         {
@@ -1303,7 +1303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T01:44:23.809Z",
+    "last_updated": "2026-08-16T01:52:50.671Z",
     "original_repository": "ozkriff/awesome-quads",
     "original_repository_sha": "c4c9927142a3934d6e18756a322b9795a9c51691",
     "enhanced_repository": "enhansome/enhansome-quads",
