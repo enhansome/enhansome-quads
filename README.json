@@ -14,7 +14,7 @@
             "last_commit": "2026-08-05T07:22:42Z",
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4582
+            "stars": 4584
           }
         },
         {
@@ -440,7 +440,7 @@
             "last_commit": "2026-08-13T13:33:30Z",
             "owner": "optozorax",
             "repo": "portal",
-            "stars": 551
+            "stars": 552
           }
         },
         {
@@ -793,7 +793,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-11T07:50:02Z",
+            "last_commit": "2026-08-16T20:04:04Z",
             "owner": "naia-lib",
             "repo": "naia",
             "stars": 1166
@@ -1070,20 +1070,6 @@
         },
         {
           "node_type": "item",
-          "title": "quad-net",
-          "description": "to use network.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-23T16:51:48Z",
-            "owner": "not-fl3",
-            "repo": "quad-net",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
           "title": "gamepads",
           "description": "to access gamepads.",
           "children": [],
@@ -1093,6 +1079,20 @@
             "last_commit": "2025-02-25T21:54:47Z",
             "owner": "fornwall",
             "repo": "gamepads",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quad-net",
+          "description": "to use network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-23T16:51:48Z",
+            "owner": "not-fl3",
+            "repo": "quad-net",
             "stars": 17
           }
         },
@@ -1303,7 +1303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T01:52:50.671Z",
+    "last_updated": "2026-08-17T01:50:17.468Z",
     "original_repository": "ozkriff/awesome-quads",
     "original_repository_sha": "c4c9927142a3934d6e18756a322b9795a9c51691",
     "enhanced_repository": "enhansome/enhansome-quads",
