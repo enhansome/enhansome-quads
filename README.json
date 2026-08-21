@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T09:37:35Z",
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4585
+            "stars": 4587
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-25T17:52:01Z",
             "owner": "not-fl3",
             "repo": "miniquad",
-            "stars": 2048
+            "stars": 2042
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-11-24T19:53:19Z",
             "owner": "Bombfuse",
             "repo": "emerald",
-            "stars": 550
+            "stars": 548
           }
         },
         {
@@ -849,7 +849,7 @@
             "last_commit": "2026-08-16T20:04:04Z",
             "owner": "naia-lib",
             "repo": "naia",
-            "stars": 1168
+            "stars": 1167
           }
         },
         {
@@ -977,7 +977,7 @@
                 "last_commit": "2026-08-04T07:33:41Z",
                 "owner": "not-fl3",
                 "repo": "egui-miniquad",
-                "stars": 105
+                "stars": 104
               }
             },
             {
@@ -1022,7 +1022,7 @@
                 "last_commit": "2022-02-18T22:24:36Z",
                 "owner": "nokola",
                 "repo": "nonaquad",
-                "stars": 41
+                "stars": 40
               }
             },
             {
@@ -1119,7 +1119,7 @@
                 "last_commit": "2026-05-13T06:31:18Z",
                 "owner": "not-fl3",
                 "repo": "quad-snd",
-                "stars": 135
+                "stars": 133
               }
             },
             {
@@ -1394,7 +1394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T01:45:26.251Z",
+    "last_updated": "2026-08-21T01:51:30.054Z",
     "original_repository": "ozkriff/awesome-quads",
     "original_repository_id": 333936577,
     "original_repository_sha": "c4c9927142a3934d6e18756a322b9795a9c51691",
