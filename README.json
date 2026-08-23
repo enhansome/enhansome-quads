@@ -313,6 +313,21 @@
             },
             {
               "node_type": "item",
+              "title": "pong-macroquad-hecs",
+              "description": "a \"BLAZINGLY FAST\" Pong clone implemented using Macroquad and hecs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 740689915,
+                "language": "Rust",
+                "last_commit": "2026-08-22T21:03:02Z",
+                "owner": "j0of",
+                "repo": "pong-macroquad-hecs",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Isometric Minecraft",
               "description": "an isometric Minecraft-like prototype.",
               "children": [],
@@ -368,21 +383,6 @@
                 "last_commit": "2023-01-27T07:35:23Z",
                 "owner": "buraksenyurt",
                 "repo": "missile-command",
-                "stars": 2
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "pong-macroquad-hecs",
-              "description": "a \"BLAZINGLY FAST\" Pong clone implemented using Macroquad and hecs.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 740689915,
-                "language": "Rust",
-                "last_commit": "2024-01-09T08:03:59Z",
-                "owner": "j0of",
-                "repo": "pong-macroquad-hecs",
                 "stars": 2
               }
             },
@@ -463,7 +463,7 @@
                 "last_commit": "2026-08-13T13:33:30Z",
                 "owner": "optozorax",
                 "repo": "portal",
-                "stars": 555
+                "stars": 556
               }
             },
             {
@@ -493,7 +493,7 @@
                 "last_commit": "2024-12-10T15:50:05Z",
                 "owner": "subalterngames",
                 "repo": "cacophony",
-                "stars": 200
+                "stars": 201
               }
             },
             {
@@ -1394,7 +1394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T01:44:21.295Z",
+    "last_updated": "2026-08-23T01:54:21.805Z",
     "original_repository": "ozkriff/awesome-quads",
     "original_repository_id": 333936577,
     "original_repository_sha": "c4c9927142a3934d6e18756a322b9795a9c51691",
