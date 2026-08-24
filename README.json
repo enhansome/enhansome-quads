@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T09:37:35Z",
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4590
+            "stars": 4591
           }
         },
         {
@@ -846,10 +846,10 @@
             "archived": false,
             "id": 275495359,
             "language": "Rust",
-            "last_commit": "2026-08-16T20:04:04Z",
+            "last_commit": "2026-08-23T20:26:29Z",
             "owner": "naia-lib",
             "repo": "naia",
-            "stars": 1168
+            "stars": 1169
           }
         },
         {
@@ -1394,7 +1394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T01:54:21.805Z",
+    "last_updated": "2026-08-24T01:51:28.036Z",
     "original_repository": "ozkriff/awesome-quads",
     "original_repository_id": 333936577,
     "original_repository_sha": "c4c9927142a3934d6e18756a322b9795a9c51691",
