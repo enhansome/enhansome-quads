@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T09:37:35Z",
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4595
+            "stars": 4596
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-25T17:52:01Z",
             "owner": "not-fl3",
             "repo": "miniquad",
-            "stars": 2045
+            "stars": 2047
           }
         },
         {
@@ -868,7 +868,7 @@
             "archived": false,
             "id": 275495359,
             "language": "Rust",
-            "last_commit": "2026-08-23T20:26:29Z",
+            "last_commit": "2026-08-26T20:42:47Z",
             "owner": "naia-lib",
             "repo": "naia",
             "stars": 1170
@@ -999,7 +999,7 @@
                 "last_commit": "2026-08-04T07:33:41Z",
                 "owner": "not-fl3",
                 "repo": "egui-miniquad",
-                "stars": 104
+                "stars": 105
               }
             },
             {
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T01:51:26.067Z",
+    "last_updated": "2026-08-27T09:27:05.194Z",
     "original_repository": "ozkriff/awesome-quads",
     "original_repository_id": 333936577,
     "original_repository_sha": "c4c9927142a3934d6e18756a322b9795a9c51691",
