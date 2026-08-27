@@ -155,10 +155,10 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 ### Libraries: Integrations
 
-* [egui-macroquad](https://github.com/optozorax/egui-macroquad) ⭐ 127 | 🐛 2 | 🌐 Rust | 📅 2025-05-21 - [egui](https://github.com/emilk/egui) ⭐ 30,181 | 🐛 1,130 | 🌐 Rust | 📅 2026-08-27 in macroquad.
-* [egui-miniquad](https://github.com/not-fl3/egui-miniquad) ⭐ 105 | 🐛 26 | 🌐 Rust | 📅 2026-08-04 - [egui](https://github.com/emilk/egui) ⭐ 30,181 | 🐛 1,130 | 🌐 Rust | 📅 2026-08-27 in miniquad.
+* [egui-macroquad](https://github.com/optozorax/egui-macroquad) ⭐ 127 | 🐛 2 | 🌐 Rust | 📅 2025-05-21 - [egui](https://github.com/emilk/egui) ⭐ 30,182 | 🐛 1,131 | 🌐 Rust | 📅 2026-08-27 in macroquad.
+* [egui-miniquad](https://github.com/not-fl3/egui-miniquad) ⭐ 105 | 🐛 26 | 🌐 Rust | 📅 2026-08-04 - [egui](https://github.com/emilk/egui) ⭐ 30,182 | 🐛 1,131 | 🌐 Rust | 📅 2026-08-27 in miniquad.
 * [cvars-console-macroquad](https://github.com/martin-t/cvars) ⭐ 53 | 🐛 15 | 🌐 Rust | 📅 2024-11-15 - in-game console for changing cvars at runtime.
-* [bevy\_miniquad](https://github.com/smokku/bevy_miniquad) ⭐ 50 | 🐛 0 | 🌐 Rust | 📅 2025-04-01 - [bevy](https://github.com/bevyengine/bevy) ⭐ 47,893 | 🐛 3,437 | 🌐 Rust | 📅 2026-08-27 + miniquad.
+* [bevy\_miniquad](https://github.com/smokku/bevy_miniquad) ⭐ 50 | 🐛 0 | 🌐 Rust | 📅 2025-04-01 - [bevy](https://github.com/bevyengine/bevy) ⭐ 47,898 | 🐛 3,437 | 🌐 Rust | 📅 2026-08-27 + miniquad.
 * [nonaquad](https://github.com/nokola/nonaquad) ⭐ 40 | 🐛 0 | 🌐 Rust | 📅 2022-02-18 - vector anti-aliased graphics renderer.
 * [backer](https://github.com/ejjonny/backer/tree/main/examples/macroquad-example) ⭐ 40 | 🐛 0 | 🌐 Rust | 📅 2026-05-30 - a 'plug & play' UI layout crate.
 * [miniquad\_text\_rusttype](https://github.com/not-fl3/miniquad_text_rusttype) ⭐ 7 | 🐛 0 | 🌐 Rust | 📅 2021-03-01 - [rusttype](https://github.com/redox-os/rusttype) ⭐ 639 | 🐛 7 | 🌐 Rust | 📅 2024-02-07 in miniquad.
@@ -187,7 +187,7 @@ Plugin has additional `.js` file, so to use it, you need to do extra work. Befor
 * [nanoshredder](https://github.com/not-fl3/nanoshredder) ⭐ 10 | 🐛 0 | 🌐 Rust | 📅 2023-02-23 - an experimental fork of makepad's shader-compiler that compiles rust-like DSL into GLSL, Metal, and HLSL.
 * [navni](https://github.com/rsaarelm/navni) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2025-02-22 - a textmode/pixel graphics display library.
 * [gesture-recognizer](https://github.com/optozorax/gesture-recognizer) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2024-02-04 - library for recognizing simple touch gestures.
-* [sapp-console-log](https://github.com/canadaduane/sapp-console-log) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2020-02-07 - [log-rs](https://github.com/rust-lang/log) ⭐ 2,544 | 🐛 17 | 🌐 Rust | 📅 2026-08-22 compatible logging for sapp-wasm.
+* [sapp-console-log](https://github.com/canadaduane/sapp-console-log) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2020-02-07 - [log-rs](https://github.com/rust-lang/log) ⭐ 2,545 | 🐛 17 | 🌐 Rust | 📅 2026-08-22 compatible logging for sapp-wasm.
 * [quad-svg](https://github.com/macnelly/quad-svg) ⭐ 5 | 🐛 3 | 🌐 Rust | 📅 2023-05-22 - renders svg to macroquad's Texture2D using [resvg](https://lib.rs/resvg).
 * [sparticles-rs](https://github.com/Norlock/sparticles-rs) ⚠️ Archived - library for making particle systems.
 * [macroquad\_aspect](https://github.com/TheEmeraldBee/macroquad_aspect) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2025-08-14 - an aspect ratio forcer for macroquad.

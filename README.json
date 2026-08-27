@@ -1416,9 +1416,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:27:05.194Z",
-    "original_repository": "ozkriff/awesome-quads",
-    "original_repository_id": 333936577,
+    "last_updated": "2026-08-27T11:58:30.725Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 333936577,
+      "language": null,
+      "last_commit": "2025-08-11T15:19:15Z",
+      "owner": "ozkriff",
+      "repo": "awesome-quads",
+      "stars": 254
+    },
     "original_repository_sha": "c4c9927142a3934d6e18756a322b9795a9c51691",
     "enhanced_repository": "enhansome/enhansome-quads",
     "enhanced_repository_description": null,
