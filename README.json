@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform game engine in Rust. ",
+            "homepage": null,
             "id": 232636908,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T09:37:35Z",
+            "open_issues": 337,
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4598
+            "stars": 4598,
+            "topics": [
+              "android",
+              "game-engine",
+              "ios",
+              "rust",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
         },
@@ -26,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross platform rendering in Rust",
+            "homepage": null,
             "id": 229360531,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-25T17:52:01Z",
+            "open_issues": 157,
             "owner": "not-fl3",
             "repo": "miniquad",
-            "stars": 2048
+            "stars": 2049,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
         },
@@ -42,12 +58,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A 2D rust game engine focused on portability.",
+            "homepage": null,
             "id": 253070632,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-11-24T19:53:19Z",
+            "open_issues": 28,
             "owner": "Bombfuse",
             "repo": "emerald",
-            "stars": 548
+            "stars": 548,
+            "topics": [
+              "2d",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "physics",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
         },
@@ -58,12 +86,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An alternative ggez implementation on top of miniquad.",
+            "homepage": null,
             "id": 168157558,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-05-24T18:31:00Z",
+            "open_issues": 16,
             "owner": "ggez",
             "repo": "good-web-game",
-            "stars": 349
+            "stars": 349,
+            "topics": [
+              "game",
+              "gamedev",
+              "ggez",
+              "rust",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
         },
@@ -74,12 +114,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Engine / framework for creating highly customizable and user modable action RPG's",
+            "homepage": null,
             "id": 392742979,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2022-03-08T20:12:18Z",
+            "open_issues": 0,
             "owner": "olefasting",
             "repo": "rust_rpg_toolkit",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "2d-engine",
+              "game",
+              "game-development",
+              "gamedev",
+              "macroquad",
+              "rpg",
+              "rust",
+              "rust-lang"
+            ]
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
         },
@@ -90,12 +144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for making games using Macroquad.",
+            "homepage": null,
             "id": 360961193,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2021-11-10T03:41:35Z",
+            "open_issues": 1,
             "owner": "gamma-delta",
             "repo": "omegaquad",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
         }
@@ -114,12 +173,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust",
+                "homepage": "https://ozkriff.itch.io/zemeroth",
                 "id": 96989832,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-26T19:07:25Z",
+                "open_issues": 91,
                 "owner": "ozkriff",
                 "repo": "zemeroth",
-                "stars": 1455
+                "stars": 1455,
+                "topics": [
+                  "2d",
+                  "android",
+                  "circleci",
+                  "game",
+                  "hexagonal",
+                  "opengl",
+                  "rust",
+                  "strategy",
+                  "tactics",
+                  "travis-ci",
+                  "turn-based",
+                  "wasm",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -130,12 +208,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "\"Fish Game\" for Macroquad is an online multiplayer game, created as a demonstration of Nakama, an open-source scalable game server, using Rust-lang and the Macroquad game engine.",
+                "homepage": null,
                 "id": 318581059,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-23T11:05:46Z",
+                "open_issues": 8,
                 "owner": "heroiclabs",
                 "repo": "fishgame-macroquad",
-                "stars": 152
+                "stars": 152,
+                "topics": [
+                  "fish-game",
+                  "game",
+                  "macroquad",
+                  "multiplayer",
+                  "nakama",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -146,12 +236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 346024650,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2021-11-14T12:40:24Z",
+                "open_issues": 0,
                 "owner": "TanTanDev",
                 "repo": "rusty_demon_attack",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -162,12 +257,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A top-down vehicle shooter in Rust - a FOSS clone of RecWar",
+                "homepage": "https://martin-t.gitlab.io/gitlab-pages/rec-wars/macroquad.html",
                 "id": 280236612,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-17T23:20:04Z",
+                "open_issues": 11,
                 "owner": "martin-t",
                 "repo": "rec-wars",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "game",
+                  "game-2d",
+                  "multiplayer-browser-game",
+                  "rust",
+                  "tank-shooter",
+                  "wasm",
+                  "wasm-example"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -178,12 +286,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Roguelike Game in Rust using macroquad.rs",
+                "homepage": null,
                 "id": 664978764,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-08-04T20:51:00Z",
+                "open_issues": 0,
                 "owner": "ProfAndreaPollini",
                 "repo": "roguelike-rust-macroquad-noname",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "macroquad",
+                  "roguelike",
+                  "roguelikedev",
+                  "rust",
+                  "rust-lang"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -194,12 +313,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rubik's Cube simulator in Rust.",
+                "homepage": null,
                 "id": 410842744,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-04-29T03:37:39Z",
+                "open_issues": 1,
                 "owner": "stanleydesu",
                 "repo": "cubedesu",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "3d-graphics",
+                  "proptest",
+                  "rubiks-cube",
+                  "rubiks-cube-simulator",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -210,12 +340,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Planetoid is a toy project to demonstrate and learn several technologies. The goal is to create a little multiplayer asteriod game clone.",
+                "homepage": null,
                 "id": 367714348,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-06T06:58:05Z",
+                "open_issues": 12,
                 "owner": "uggla",
                 "repo": "planetoid",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "quarkus",
+                  "rust",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -226,12 +365,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 382113460,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2022-01-06T19:55:11Z",
+                "open_issues": 0,
                 "owner": "andreivasiliu",
                 "repo": "cybersub",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -242,12 +386,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust implementation of T&E Board game",
+                "homepage": null,
                 "id": 589127086,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-02-01T09:33:50Z",
+                "open_issues": 0,
                 "owner": "0b01",
                 "repo": "tigris-and-euphrates",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -258,12 +407,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fun game where you can shoot enemies with a cannon",
+                "homepage": null,
                 "id": 520584111,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2022-08-13T01:28:55Z",
+                "open_issues": 0,
                 "owner": "Dequog",
                 "repo": "caveth",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -274,12 +428,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation in Rust+Macroquad of the game Bunner from Code the Classics vol 1.",
+                "homepage": null,
                 "id": 522343078,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-02-20T19:18:27Z",
+                "open_issues": 0,
                 "owner": "ollej",
                 "repo": "rust-bunner-macroquad",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "frogger",
+                  "game",
+                  "macroquad",
+                  "port",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -290,12 +455,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 923242681,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-11-21T02:31:53Z",
+                "open_issues": 1,
                 "owner": "oawad79",
                 "repo": "dave-rs",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -306,12 +476,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quoridor game implemented in Rust",
+                "homepage": null,
                 "id": 505415499,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-07-13T10:00:18Z",
+                "open_issues": 0,
                 "owner": "baehyunsol",
                 "repo": "Quoridor-rs",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -322,12 +497,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Play with life and Rust",
+                "homepage": null,
                 "id": 534639239,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2022-09-18T14:19:00Z",
+                "open_issues": 0,
                 "owner": "LittleB0xes",
                 "repo": "stunning_barnacle",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "life",
+                  "macroquad",
+                  "physics",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -338,12 +523,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A BLAZINGLY FAST Pong clone implemented in Rust using the Macroquad and hecs libraries.",
+                "homepage": null,
                 "id": 740689915,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-22T21:03:02Z",
+                "open_issues": 0,
                 "owner": "j0of",
                 "repo": "pong-macroquad-hecs",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -354,12 +544,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an isometric game engine built on top of macroquad",
+                "homepage": "https://bioastroiner.github.io/isometric_minecraft/",
                 "id": 827936896,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-08-05T11:09:29Z",
+                "open_issues": 0,
                 "owner": "bioastroiner",
                 "repo": "isometric_minecraft",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -370,12 +565,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 361042630,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2021-04-25T20:57:17Z",
+                "open_issues": 0,
                 "owner": "gamma-delta",
                 "repo": "excavation-site-alpha",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -386,12 +586,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Another Game Of Life made with Rust and Macroquad",
+                "homepage": null,
                 "id": 539683760,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2022-09-24T19:18:07Z",
+                "open_issues": 0,
                 "owner": "LittleB0xes",
                 "repo": "rusty_life",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "conway-game",
+                  "life",
+                  "macroquad",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -402,12 +612,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple missile command game clone from 80's Atari. The aim is to develop games using the Macroquad game engine and to learn some basic mathematical instruments.",
+                "homepage": null,
                 "id": 578906171,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2023-01-27T07:35:23Z",
+                "open_issues": 0,
                 "owner": "buraksenyurt",
                 "repo": "missile-command",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -418,12 +633,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "onitama implementation in macroquad (couldn't get bevy, ggez, or amethyst working lol)",
+                "homepage": "https://scpchicken.github.io/onitama_macroquad/",
                 "id": 422001103,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-01-29T04:48:53Z",
+                "open_issues": 0,
                 "owner": "scpchicken",
                 "repo": "onitama_macroquad",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -434,12 +654,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 848563107,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-09-14T05:47:39Z",
+                "open_issues": 0,
                 "owner": "puppysh43",
                 "repo": "quad_sokoban",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             }
@@ -457,12 +682,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clone of Soldat engine written in Rust",
+                "homepage": null,
                 "id": 336938470,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-08-29T20:57:32Z",
+                "open_issues": 2,
                 "owner": "smokku",
                 "repo": "soldank",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "game",
+                  "rust",
+                  "soldank",
+                  "soldat"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             }
@@ -480,12 +715,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A game written in Rust, compilable to webbassembly",
+                "homepage": null,
                 "id": 261705242,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-01T16:52:58Z",
+                "open_issues": 2,
                 "owner": "TanTanDev",
                 "repo": "DigEscape",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             }
@@ -509,12 +749,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔵🟠 Portal Explorer — web visualization of mind-blowing portals using ray-tracing.",
+                "homepage": "https://optozorax.github.io/portal/",
                 "id": 345399317,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-13T13:33:30Z",
+                "open_issues": 0,
                 "owner": "optozorax",
                 "repo": "portal",
-                "stars": 556
+                "stars": 556,
+                "topics": [
+                  "game-development",
+                  "portal",
+                  "raytracing",
+                  "rust",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -525,12 +776,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Force Directed Graph Drawing Library",
+                "homepage": "https://grantshandy.github.io/fdg",
                 "id": 472928823,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-03-06T01:39:14Z",
+                "open_issues": 5,
                 "owner": "grantshandy",
                 "repo": "fdg",
-                "stars": 231
+                "stars": 231,
+                "topics": [
+                  "force-directed-graphs",
+                  "fruchterman-reingold",
+                  "graph",
+                  "graph-theory",
+                  "graphs",
+                  "simulation",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -541,12 +805,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimalist MIDI Sequencer",
+                "homepage": "https://subalterngames.com/cacophony/",
                 "id": 603857865,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-12-10T15:50:05Z",
+                "open_issues": 7,
                 "owner": "subalterngames",
                 "repo": "cacophony",
-                "stars": 201
+                "stars": 201,
+                "topics": [
+                  "ascii-graphics",
+                  "audio",
+                  "computer-music",
+                  "daw",
+                  "digital-audio-workstation",
+                  "edm",
+                  "electronic-music",
+                  "midi",
+                  "music",
+                  "music-composition",
+                  "music-creation",
+                  "music-creator",
+                  "sequencer",
+                  "sequencer-midi",
+                  "songs",
+                  "synthesizer"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -557,12 +843,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Proportional-Integral-Derivative controller simulation to balance a ball on cart",
+                "homepage": null,
                 "id": 628713926,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-09-25T22:43:36Z",
+                "open_issues": 2,
                 "owner": "sparshg",
                 "repo": "pid-balancer",
-                "stars": 173
+                "stars": 173,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -573,12 +864,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pixel art and spritesheet editor",
+                "homepage": null,
                 "id": 615672452,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-27T15:51:09Z",
+                "open_issues": 20,
                 "owner": "yds12",
                 "repo": "tarsila",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "editor",
+                  "image-editor",
+                  "image-processing",
+                  "pixel-art",
+                  "spritesheet"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -589,12 +891,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fuzzy Controller to fly a simulated drone",
+                "homepage": null,
                 "id": 692853751,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2023-10-23T09:38:13Z",
+                "open_issues": 0,
                 "owner": "sparshg",
                 "repo": "fuzzy-controller",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -605,12 +912,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small tool to display markdown files as a slideshow written in Rust.",
+                "homepage": null,
                 "id": 355309775,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-02-20T19:05:20Z",
+                "open_issues": 2,
                 "owner": "ollej",
                 "repo": "rusty-slider",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "macroquad",
+                  "markdown",
+                  "presentation",
+                  "rust",
+                  "slideshow"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -621,12 +939,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI plays a small escape room game, written in rust",
+                "homepage": "https://www.youtube.com/watch?v=OeojCLDKaJU",
                 "id": 639918898,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2023-05-14T14:19:48Z",
+                "open_issues": 0,
                 "owner": "bones-ai",
                 "repo": "rust-escape-ai",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "artificial-intelligence",
+                  "escape-room",
+                  "genetic-algorithm",
+                  "macroquad",
+                  "rustlang"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -637,12 +966,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧪 A simple pixel physics simulator in Rust using Macroquad ",
+                "homepage": null,
                 "id": 1033851351,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-08-07T14:15:40Z",
+                "open_issues": 0,
                 "owner": "gale93",
                 "repo": "sbixel",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -653,12 +987,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI learns to play flappy bird using neuro-evolution, implemented in Rust using macroquad",
+                "homepage": "https://www.youtube.com/watch?v=Ea_N1CJwMR8",
                 "id": 631231785,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-03-23T14:59:19Z",
+                "open_issues": 1,
                 "owner": "bones-ai",
                 "repo": "rust-flappy-bird-ai",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "ai",
+                  "flappy-bird",
+                  "flappy-bird-ai",
+                  "genetic-algorithm",
+                  "macroquad",
+                  "neat",
+                  "neural-networks",
+                  "neuroevolution",
+                  "rust",
+                  "rust-lang",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -669,12 +1020,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Monitoring visualization as an aquarium written in Rust with Macroquad.",
+                "homepage": null,
                 "id": 349211927,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-02-20T21:23:05Z",
+                "open_issues": 2,
                 "owner": "ollej",
                 "repo": "rusty-aquarium",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "macroquad",
+                  "monitoring",
+                  "rust",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -685,12 +1046,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library and tool for automata and formal languages, inspired by JFLAP",
+                "homepage": "https://henryksloan.github.io/sugarcubes/",
                 "id": 371806868,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-03-31T14:37:44Z",
+                "open_issues": 0,
                 "owner": "henryksloan",
                 "repo": "sugarcubes",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -701,12 +1067,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library and tool for automata and formal languages, inspired by JFLAP",
+                "homepage": "https://henryksloan.github.io/sugarcubes/",
                 "id": 371806868,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-03-31T14:37:44Z",
+                "open_issues": 0,
                 "owner": "henryksloan",
                 "repo": "sugarcubes",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -717,12 +1088,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An evolution simulator in Rust",
+                "homepage": null,
                 "id": 762796253,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-12-23T22:57:57Z",
+                "open_issues": 0,
                 "owner": "kul-sudo",
                 "repo": "eportal",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -733,12 +1109,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "write your next slideshow in rust 🦀, as a self-contained binary  📦.",
+                "homepage": null,
                 "id": 351179919,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2021-04-30T16:15:11Z",
+                "open_issues": 0,
                 "owner": "yazgoo",
                 "repo": "bema",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -749,12 +1130,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactible shell texturing. 🐚",
+                "homepage": null,
                 "id": 717466710,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2023-11-13T19:15:51Z",
+                "open_issues": 0,
                 "owner": "gre-v-el",
                 "repo": "Shell-Texturing",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "3d",
+                  "fur",
+                  "macroquad",
+                  "rendering",
+                  "rust",
+                  "shell",
+                  "shell-texturing",
+                  "texturing"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -765,12 +1160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simulating the evolution of tiny neural networks.",
+                "homepage": null,
                 "id": 935576796,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-05-26T19:50:28Z",
+                "open_issues": 0,
                 "owner": "kostareg",
                 "repo": "nervana",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -781,12 +1181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interact with particles with the mouse.",
+                "homepage": null,
                 "id": 588146104,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-01-12T15:53:35Z",
+                "open_issues": 0,
                 "owner": "cppxor2arr",
                 "repo": "InteractiveParticles",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -797,12 +1202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 323446431,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2021-07-17T05:04:37Z",
+                "open_issues": 0,
                 "owner": "not-fl3",
                 "repo": "particles-editor",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -813,12 +1223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fish flocking simulation built with rust and macroquad",
+                "homepage": null,
                 "id": 527452918,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-09-08T08:15:41Z",
+                "open_issues": 0,
                 "owner": "eckyputrady",
                 "repo": "fish-flocking-simulation",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -829,12 +1244,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Particle simulation inspired by Jeffrey Ventrella's Clusters",
+                "homepage": null,
                 "id": 646411149,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-12-04T20:51:06Z",
+                "open_issues": 0,
                 "owner": "Markek1",
                 "repo": "particle-life",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "gameoflife"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -845,12 +1267,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SImulating correct particle collisions and algorithms to detect them efficiently.",
+                "homepage": null,
                 "id": 523660378,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2022-08-20T10:11:58Z",
+                "open_issues": 0,
                 "owner": "Markek1",
                 "repo": "Collision-Simulator",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -861,12 +1288,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust implementation and visualization of the Lorenz Attractor using Macroqaud",
+                "homepage": null,
                 "id": 612694794,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-11T18:16:57Z",
+                "open_issues": 0,
                 "owner": "guydols",
                 "repo": "Lorenz_Attractor",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -877,12 +1309,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 844256794,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-04-18T16:45:03Z",
+                "open_issues": 0,
                 "owner": "LeonStansfield",
                 "repo": "tawnyAV",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -893,12 +1330,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shader implementation of the Jump Flood algorithm in macroquad",
+                "homepage": null,
                 "id": 526631673,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2022-08-28T18:50:17Z",
+                "open_issues": 0,
                 "owner": "adambiltcliffe",
                 "repo": "macroquad-jfa",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             }
@@ -920,12 +1362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a cross-platform (including Wasm!) networking library built in Rust. Intended to make multiplayer game development dead-simple & lightning-fast ",
+            "homepage": null,
             "id": 275495359,
             "language": "Rust",
-            "last_commit": "2026-08-28T03:12:02Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:38:24Z",
+            "open_issues": 15,
             "owner": "naia-lib",
             "repo": "naia",
-            "stars": 1171
+            "stars": 1171,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
         },
@@ -936,12 +1383,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "\"Fish Game\" for Macroquad is an online multiplayer game, created as a demonstration of Nakama, an open-source scalable game server, using Rust-lang and the Macroquad game engine.",
+            "homepage": null,
             "id": 318581059,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2022-05-23T11:05:46Z",
+            "open_issues": 8,
             "owner": "heroiclabs",
             "repo": "fishgame-macroquad",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "fish-game",
+              "game",
+              "macroquad",
+              "multiplayer",
+              "nakama",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
         },
@@ -952,12 +1411,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 532672329,
             "language": "Rust",
+            "license": null,
             "last_commit": "2022-09-05T01:18:08Z",
+            "open_issues": 0,
             "owner": "not-fl3",
             "repo": "quad-android-playground",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
         },
@@ -968,12 +1432,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 241261386,
             "language": "Rust",
+            "license": null,
             "last_commit": "2021-03-21T23:39:56Z",
+            "open_issues": 0,
             "owner": "not-fl3",
             "repo": "miniquad-js-interop-demo",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
         },
@@ -984,12 +1453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Opinionated Macroquad game template with lots of common game needs met",
+            "homepage": null,
             "id": 874529468,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-18T19:56:56Z",
+            "open_issues": 0,
             "owner": "brettchalupa",
             "repo": "macroquad_quickstart",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
         },
@@ -1000,12 +1474,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "good-web-game + wasm-bindgen example",
+            "homepage": null,
             "id": 289853669,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-20T17:29:51Z",
+            "open_issues": 1,
             "owner": "smokku",
             "repo": "gwg-bindgen",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "ggez",
+              "gwg",
+              "javascript",
+              "rust",
+              "rust-lang",
+              "wasm",
+              "wasm-bindgen",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
         },
@@ -1016,12 +1504,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yeah",
+            "homepage": null,
             "id": 821844780,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-07-01T14:04:18Z",
+            "open_issues": 0,
             "owner": "birhburh",
             "repo": "miniquad_kaios_tests",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
         }
@@ -1040,12 +1533,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "egui bindings for macroquad",
+                "homepage": "https://optozorax.github.io/egui-macroquad/",
                 "id": 346756700,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-21T20:29:35Z",
+                "open_issues": 2,
                 "owner": "optozorax",
                 "repo": "egui-macroquad",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "egui",
+                  "macroquad",
+                  "rust",
+                  "wasm",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1056,12 +1560,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 246172435,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-04T07:33:41Z",
+                "open_issues": 26,
                 "owner": "not-fl3",
                 "repo": "egui-miniquad",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1072,12 +1581,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Configuration variables and consoles for games in Rust. An alternative to inline_tweak / const-tweaker with different tradeoffs.",
+                "homepage": "https://docs.rs/cvars/",
                 "id": 391989611,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-11-15T20:33:22Z",
+                "open_issues": 15,
                 "owner": "martin-t",
                 "repo": "cvars",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "configuration",
+                  "console",
+                  "cvar",
+                  "cvars",
+                  "debugging",
+                  "gamedev",
+                  "options",
+                  "rust",
+                  "settings"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1088,12 +1612,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bevy engine + miniquad render plugin",
+                "homepage": "https://smokku.github.io/bevy_miniquad/",
                 "id": 296891116,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-04-01T14:27:07Z",
+                "open_issues": 0,
                 "owner": "smokku",
                 "repo": "bevy_miniquad",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "bevy",
+                  "bevy-miniquad",
+                  "game-engine",
+                  "miniquad",
+                  "opengl",
+                  "rust",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1104,12 +1641,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Antialiased 2D vector drawing library in Rust for Android, Web, Desktop",
+                "homepage": null,
                 "id": 251107518,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2022-02-18T22:24:36Z",
+                "open_issues": 0,
                 "owner": "nokola",
                 "repo": "nonaquad",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "2d",
+                  "android",
+                  "cross-platform",
+                  "drawing",
+                  "ios",
+                  "linux",
+                  "rust",
+                  "vector",
+                  "windwos"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1120,12 +1672,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for straight-forward UI layout.",
+                "homepage": null,
                 "id": 849998339,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-05-30T15:39:36Z",
+                "open_issues": 0,
                 "owner": "cyypherus",
                 "repo": "backer",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1136,12 +1693,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 237080377,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2021-03-01T01:29:46Z",
+                "open_issues": 0,
                 "owner": "not-fl3",
                 "repo": "miniquad_text_rusttype",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1152,12 +1714,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 234279226,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2022-10-17T09:35:01Z",
+                "open_issues": 1,
                 "owner": "not-fl3",
                 "repo": "imgui-miniquad-render",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1168,12 +1735,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 918865732,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-04-02T19:20:25Z",
+                "open_issues": 0,
                 "owner": "Kenkron",
                 "repo": "macroquad_rapier_interface",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1184,12 +1756,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Antialiased 2D vector drawing library for miniquad",
+                "homepage": null,
                 "id": 336246376,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-24T20:02:00Z",
+                "open_issues": 0,
                 "owner": "smokku",
                 "repo": "femtovg",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "miniquad",
+                  "rust",
+                  "vector-graphics"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             }
@@ -1207,12 +1788,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform audio for Rust",
+                "homepage": null,
                 "id": 236412785,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-05-13T06:31:18Z",
+                "open_issues": 12,
                 "owner": "not-fl3",
                 "repo": "quad-snd",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "audio",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1223,12 +1812,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin for macro-, mini-quad (quads) to save data in simple local storage using Web Storage API in WASM and local file on a native platforms.",
+                "homepage": null,
                 "id": 391401710,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-08T13:26:25Z",
+                "open_issues": 2,
                 "owner": "optozorax",
                 "repo": "quad-storage",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1239,12 +1833,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust gamepad input library with a focus on ease of use.",
+                "homepage": null,
                 "id": 691712956,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-25T21:54:47Z",
+                "open_issues": 5,
                 "owner": "fornwall",
                 "repo": "gamepads",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "gamedev",
+                  "gamepad",
+                  "input",
+                  "rust",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1255,12 +1860,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 322202547,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-08-18T09:37:53Z",
+                "open_issues": 6,
                 "owner": "not-fl3",
                 "repo": "quad-net",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1271,12 +1881,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 241416557,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-09-10T14:29:16Z",
+                "open_issues": 2,
                 "owner": "not-fl3",
                 "repo": "sapp-jsutils",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1287,12 +1902,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small crate to work with URL in miniquad/macroquad.",
+                "homepage": null,
                 "id": 350464345,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-21T19:07:20Z",
+                "open_issues": 2,
                 "owner": "optozorax",
                 "repo": "quad-url",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             }
@@ -1310,12 +1930,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plotting library written in Rust",
+                "homepage": null,
                 "id": 480949134,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2024-02-27T20:34:10Z",
+                "open_issues": 1,
                 "owner": "elftausend",
                 "repo": "graplot",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "3d-plotting",
+                  "bars",
+                  "chart",
+                  "charting-library",
+                  "charts",
+                  "data-visualization",
+                  "graphing",
+                  "graphs",
+                  "macroquad",
+                  "matplotlib",
+                  "plot",
+                  "plots",
+                  "plotting",
+                  "rust",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1326,12 +1967,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Little 2D physics engine used for my game Crate Before Attack.",
+                "homepage": null,
                 "id": 262822793,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2020-10-15T20:22:21Z",
+                "open_issues": 2,
                 "owner": "koalefant",
                 "repo": "circle2d",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "miniquad",
+                  "physics-2d",
+                  "rust-lang",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1342,12 +1993,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rapid prototyping GUI, and visual printf-style debugging for computer vision development.",
+                "homepage": "https://strasdat.github.io/vviz/",
                 "id": 443187756,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-18T19:10:24Z",
+                "open_issues": 1,
                 "owner": "strasdat",
                 "repo": "vviz",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "2d",
+                  "3d",
+                  "computer-vision",
+                  "graphics",
+                  "gui",
+                  "rust",
+                  "vision"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1358,12 +2022,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 248274093,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-01-04T14:04:44Z",
+                "open_issues": 6,
                 "owner": "not-fl3",
                 "repo": "quad-rand",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1374,12 +2043,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Display GIF animations with Macroquad",
+                "homepage": null,
                 "id": 505983135,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-02-10T21:13:52Z",
+                "open_issues": 0,
                 "owner": "ollej",
                 "repo": "quad-gif",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "animation",
+                  "crate",
+                  "gif",
+                  "macroquad",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1390,12 +2070,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 605420972,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2023-02-23T05:39:38Z",
+                "open_issues": 0,
                 "owner": "not-fl3",
                 "repo": "nanoshredder",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1406,12 +2091,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Textmode / pixel graphics display library",
+                "homepage": null,
                 "id": 658886873,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-22T18:30:36Z",
+                "open_issues": 0,
                 "owner": "rsaarelm",
                 "repo": "navni",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1422,12 +2112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recognize gestures by touch events",
+                "homepage": null,
                 "id": 245851249,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-02-04T13:08:15Z",
+                "open_issues": 0,
                 "owner": "optozorax",
                 "repo": "gesture-recognizer",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1438,12 +2133,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "log-rs compatible logging for sapp-wasm",
+                "homepage": null,
                 "id": 235042978,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2020-02-07T21:36:51Z",
+                "open_issues": 0,
                 "owner": "canadaduane",
                 "repo": "sapp-console-log",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1454,12 +2154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "render svg to macroquad::texture::Texture2D using resvg",
+                "homepage": null,
                 "id": 575560951,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-22T11:59:23Z",
+                "open_issues": 3,
                 "owner": "macnelly",
                 "repo": "quad-svg",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1470,12 +2175,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 433042837,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2023-10-25T10:43:29Z",
+                "open_issues": 0,
                 "owner": "Norlock",
                 "repo": "sparticles-rs",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -1486,12 +2196,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Simple Aspect Ratio Drawer for Macroquad",
+                "homepage": null,
                 "id": 579230063,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-08-14T23:41:24Z",
+                "open_issues": 0,
                 "owner": "TheEmeraldBee",
                 "repo": "macroquad_aspect",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             }
@@ -1505,15 +2220,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:12:55.348Z",
+    "last_updated": "2026-08-29T04:50:28.656Z",
     "original_repository_info": {
       "archived": false,
+      "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
+      "homepage": null,
       "id": 333936577,
       "language": null,
+      "license": null,
       "last_commit": "2025-08-11T15:19:15Z",
+      "open_issues": 3,
       "owner": "ozkriff",
       "repo": "awesome-quads",
-      "stars": 254
+      "stars": 254,
+      "topics": [
+        "awesome-list",
+        "gamedev",
+        "opensource",
+        "rust"
+      ]
     },
     "original_repository_sha": "c4c9927142a3934d6e18756a322b9795a9c51691",
     "enhanced_repository": "enhansome/enhansome-quads",
