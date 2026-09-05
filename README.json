@@ -19,7 +19,7 @@
             "open_issues": 338,
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4609,
+            "stars": 4612,
             "topics": [
               "android",
               "game-engine",
@@ -1542,7 +1542,7 @@
                 "open_issues": 2,
                 "owner": "optozorax",
                 "repo": "egui-macroquad",
-                "stars": 127,
+                "stars": 128,
                 "topics": [
                   "egui",
                   "macroquad",
@@ -2220,7 +2220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T04:19:24.869Z",
+    "last_updated": "2026-09-05T04:14:56.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
