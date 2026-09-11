@@ -46,7 +46,7 @@
             "open_issues": 159,
             "owner": "not-fl3",
             "repo": "miniquad",
-            "stars": 2051,
+            "stars": 2052,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -1367,7 +1367,7 @@
             "id": 275495359,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T22:46:08Z",
+            "last_commit": "2026-09-11T01:44:13Z",
             "open_issues": 19,
             "owner": "naia-lib",
             "repo": "naia",
@@ -2220,7 +2220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T04:26:43.190Z",
+    "last_updated": "2026-09-11T04:26:18.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
