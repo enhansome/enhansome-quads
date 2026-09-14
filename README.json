@@ -43,10 +43,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-07-25T17:52:01Z",
-            "open_issues": 159,
+            "open_issues": 160,
             "owner": "not-fl3",
             "repo": "miniquad",
-            "stars": 2053,
+            "stars": 2054,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -67,7 +67,7 @@
             "open_issues": 28,
             "owner": "Bombfuse",
             "repo": "emerald",
-            "stars": 548,
+            "stars": 549,
             "topics": [
               "2d",
               "game-development",
@@ -1371,7 +1371,7 @@
             "open_issues": 19,
             "owner": "naia-lib",
             "repo": "naia",
-            "stars": 1176,
+            "stars": 1177,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -1542,7 +1542,7 @@
                 "open_issues": 2,
                 "owner": "optozorax",
                 "repo": "egui-macroquad",
-                "stars": 128,
+                "stars": 129,
                 "topics": [
                   "egui",
                   "macroquad",
@@ -2220,7 +2220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T04:38:41.685Z",
+    "last_updated": "2026-09-14T04:43:59.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
