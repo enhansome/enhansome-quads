@@ -19,7 +19,7 @@
             "open_issues": 339,
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4628,
+            "stars": 4627,
             "topics": [
               "android",
               "game-engine",
@@ -43,10 +43,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-07-25T17:52:01Z",
-            "open_issues": 160,
+            "open_issues": 161,
             "owner": "not-fl3",
             "repo": "miniquad",
-            "stars": 2054,
+            "stars": 2055,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -217,7 +217,7 @@
                 "open_issues": 8,
                 "owner": "heroiclabs",
                 "repo": "fishgame-macroquad",
-                "stars": 153,
+                "stars": 152,
                 "topics": [
                   "fish-game",
                   "game",
@@ -1367,7 +1367,7 @@
             "id": 275495359,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T03:58:30Z",
+            "last_commit": "2026-09-15T15:52:12Z",
             "open_issues": 19,
             "owner": "naia-lib",
             "repo": "naia",
@@ -1392,7 +1392,7 @@
             "open_issues": 8,
             "owner": "heroiclabs",
             "repo": "fishgame-macroquad",
-            "stars": 153,
+            "stars": 152,
             "topics": [
               "fish-game",
               "game",
@@ -2220,7 +2220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T04:43:45.195Z",
+    "last_updated": "2026-09-16T04:39:34.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
