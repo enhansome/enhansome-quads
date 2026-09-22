@@ -16,7 +16,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-18T09:37:35Z",
-            "open_issues": 339,
+            "open_issues": 338,
             "owner": "not-fl3",
             "repo": "macroquad",
             "stars": 4630,
@@ -46,7 +46,7 @@
             "open_issues": 162,
             "owner": "not-fl3",
             "repo": "miniquad",
-            "stars": 2057,
+            "stars": 2058,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -67,7 +67,7 @@
             "open_issues": 28,
             "owner": "Bombfuse",
             "repo": "emerald",
-            "stars": 549,
+            "stars": 548,
             "topics": [
               "2d",
               "game-development",
@@ -182,7 +182,7 @@
                 "open_issues": 91,
                 "owner": "ozkriff",
                 "repo": "zemeroth",
-                "stars": 1456,
+                "stars": 1457,
                 "topics": [
                   "2d",
                   "android",
@@ -2220,7 +2220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T04:44:14.173Z",
+    "last_updated": "2026-09-22T04:41:05.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
