@@ -4,10 +4,10 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 ## Game engines
 
-* [macroquad](https://github.com/not-fl3/macroquad) ⭐ 4,630 | 🐛 338 | 🌐 Rust | 📅 2026-08-18 - simple to use library from author of miniquad.
-* [miniquad](https://github.com/not-fl3/miniquad) ⭐ 2,058 | 🐛 162 | 🌐 Rust | 📅 2026-07-25 - main crate, engines below build on top of it. Supports WASM. Therefore everything build on top of it supports WASM too.
+* [macroquad](https://github.com/not-fl3/macroquad) ⭐ 4,631 | 🐛 338 | 🌐 Rust | 📅 2026-08-18 - simple to use library from author of miniquad.
+* [miniquad](https://github.com/not-fl3/miniquad) ⭐ 2,059 | 🐛 162 | 🌐 Rust | 📅 2026-07-25 - main crate, engines below build on top of it. Supports WASM. Therefore everything build on top of it supports WASM too.
 * [emerald](https://github.com/Bombfuse/emerald) ⚠️ Archived - game engine with physics, audio, graphics, ECS.
-* [good-web-game](https://github.com/not-fl3/good-web-game) ⭐ 349 | 🐛 16 | 🌐 Rust | 📅 2024-05-24 - crate to easily port your [ggez](https://github.com/ggez/ggez) ⭐ 4,693 | 🐛 72 | 🌐 Rust | 📅 2026-08-24 to WASM.
+* [good-web-game](https://github.com/not-fl3/good-web-game) ⭐ 349 | 🐛 16 | 🌐 Rust | 📅 2024-05-24 - crate to easily port your [ggez](https://github.com/ggez/ggez) ⭐ 4,694 | 🐛 72 | 🌐 Rust | 📅 2026-08-24 to WASM.
 * [rust-rpg-toolkit](https://github.com/olefasting/rust_rpg_toolkit) ⭐ 62 | 🐛 0 | 🌐 Rust | 📅 2022-03-08 - a framework for creating customizable and user modifiable action RPG's, using Rust and/or JSON.
 * [omegaquad](https://github.com/gamma-delta/omegaquad) ⭐ 25 | 🐛 1 | 🌐 Rust | 📅 2021-11-10 - hackable, opinionated layer on top of Macroquad for writing games
 
@@ -15,7 +15,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 ### Games: On top of macroquad
 
-* [Zemeroth](https://github.com/ozkriff/zemeroth) ⭐ 1,457 | 🐛 91 | 🌐 Rust | 📅 2024-03-26 - turn-based hexagonal tactical game.
+* [Zemeroth](https://github.com/ozkriff/zemeroth) ⭐ 1,458 | 🐛 91 | 🌐 Rust | 📅 2024-03-26 - turn-based hexagonal tactical game.
 * [Fish Game](https://github.com/heroiclabs/fishgame-macroquad) ⚠️ Archived - online multiplayer game, created as a demonstration of [Nakama](https://heroiclabs.com/), an open-source scalable game server.
 * [Rusty Demon Attack](https://github.com/TanTanDev/rusty_demon_attack) ⭐ 72 | 🐛 0 | 🌐 Rust | 📅 2021-11-14 - game inspired by the classic atari game: demon attack.
 * [RecWars](https://github.com/martin-t/rec-wars) ⭐ 59 | 🐛 11 | 🌐 Rust | 📅 2025-04-17 - a multiplayer top-down tank shooter playable in browser.
@@ -144,7 +144,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 * [\*quad Android playground](https://github.com/not-fl3/quad-android-playground) ⭐ 7 | 🐛 0 | 🌐 Rust | 📅 2022-09-05 - a collection of Android shenanigans as one single app. Useful to test \*quads compatibility with a given android phone and do regression testing on anything related to Android.
 * [JS interop](https://github.com/not-fl3/miniquad-js-interop-demo) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2021-03-21 as example for writing your own plugins.
 * [macroquad\_quickstart](https://github.com/brettchalupa/macroquad_quickstart) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2025-02-18 - an opinionated template for buiding games in Rust with Macroquad, specfically focused on targeting the web and PC.
-* [wasm-bindgen interop](https://github.com/smokku/gwg-bindgen) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-20 - good-web-game + [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) ⭐ 9,155 | 🐛 566 | 🌐 Rust | 📅 2026-09-21 example
+* [wasm-bindgen interop](https://github.com/smokku/gwg-bindgen) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-20 - good-web-game + [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) ⭐ 9,154 | 🐛 565 | 🌐 Rust | 📅 2026-09-23 example
 * [miniquad\_kaios\_tests](https://github.com/birhburh/miniquad_kaios_tests) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2024-07-01 - example apps for miniquad to run on KaiOS.
 
 ## Tools
@@ -155,14 +155,14 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 ### Libraries: Integrations
 
-* [egui-macroquad](https://github.com/optozorax/egui-macroquad) ⭐ 129 | 🐛 2 | 🌐 Rust | 📅 2025-05-21 - [egui](https://github.com/emilk/egui) ⭐ 30,656 | 🐛 1,124 | 🌐 Rust | 📅 2026-09-21 in macroquad.
-* [egui-miniquad](https://github.com/not-fl3/egui-miniquad) ⭐ 105 | 🐛 26 | 🌐 Rust | 📅 2026-08-04 - [egui](https://github.com/emilk/egui) ⭐ 30,656 | 🐛 1,124 | 🌐 Rust | 📅 2026-09-21 in miniquad.
+* [egui-macroquad](https://github.com/optozorax/egui-macroquad) ⭐ 129 | 🐛 2 | 🌐 Rust | 📅 2025-05-21 - [egui](https://github.com/emilk/egui) ⭐ 30,672 | 🐛 1,121 | 🌐 Rust | 📅 2026-09-22 in macroquad.
+* [egui-miniquad](https://github.com/not-fl3/egui-miniquad) ⭐ 105 | 🐛 26 | 🌐 Rust | 📅 2026-08-04 - [egui](https://github.com/emilk/egui) ⭐ 30,672 | 🐛 1,121 | 🌐 Rust | 📅 2026-09-22 in miniquad.
 * [cvars-console-macroquad](https://github.com/martin-t/cvars) ⭐ 53 | 🐛 15 | 🌐 Rust | 📅 2024-11-15 - in-game console for changing cvars at runtime.
-* [bevy\_miniquad](https://github.com/smokku/bevy_miniquad) ⭐ 50 | 🐛 0 | 🌐 Rust | 📅 2025-04-01 - [bevy](https://github.com/bevyengine/bevy) ⭐ 48,319 | 🐛 3,427 | 🌐 Rust | 📅 2026-09-22 + miniquad.
+* [bevy\_miniquad](https://github.com/smokku/bevy_miniquad) ⭐ 50 | 🐛 0 | 🌐 Rust | 📅 2025-04-01 - [bevy](https://github.com/bevyengine/bevy) ⭐ 48,339 | 🐛 3,422 | 🌐 Rust | 📅 2026-09-23 + miniquad.
 * [nonaquad](https://github.com/nokola/nonaquad) ⭐ 40 | 🐛 0 | 🌐 Rust | 📅 2022-02-18 - vector anti-aliased graphics renderer.
 * [backer](https://github.com/ejjonny/backer/tree/main/examples/macroquad-example) ⭐ 39 | 🐛 0 | 🌐 Rust | 📅 2026-05-30 - a 'plug & play' UI layout crate.
 * [miniquad\_text\_rusttype](https://github.com/not-fl3/miniquad_text_rusttype) ⭐ 7 | 🐛 0 | 🌐 Rust | 📅 2021-03-01 - [rusttype](https://github.com/redox-os/rusttype) ⭐ 639 | 🐛 7 | 🌐 Rust | 📅 2024-02-07 in miniquad.
-* [imgui-miniquad-render](https://github.com/not-fl3/imgui-miniquad-render) ⭐ 5 | 🐛 1 | 🌐 Rust | 📅 2022-10-17 - [imgui-rs](https://github.com/imgui-rs/imgui-rs) ⭐ 3,055 | 🐛 73 | 🌐 Rust | 📅 2026-06-21 in miniquad.
+* [imgui-miniquad-render](https://github.com/not-fl3/imgui-miniquad-render) ⭐ 5 | 🐛 1 | 🌐 Rust | 📅 2022-10-17 - [imgui-rs](https://github.com/imgui-rs/imgui-rs) ⭐ 3,056 | 🐛 73 | 🌐 Rust | 📅 2026-06-21 in miniquad.
 * [macroquad\_rapier\_interface](https://github.com/Kenkron/macroquad_rapier_interface) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2025-04-02 - Rapier2D + macroquad.
 * [femtovg](https://github.com/smokku/femtovg) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2021-08-24 - antialiased 2D vector drawing library (miniquad port).
 
@@ -194,4 +194,4 @@ Plugin has additional `.js` file, so to use it, you need to do extra work. Befor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
