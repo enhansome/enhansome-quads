@@ -19,7 +19,7 @@
             "open_issues": 338,
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4631,
+            "stars": 4632,
             "topics": [
               "android",
               "game-engine",
@@ -1842,7 +1842,7 @@
                 "open_issues": 5,
                 "owner": "fornwall",
                 "repo": "gamepads",
-                "stars": 18,
+                "stars": 19,
                 "topics": [
                   "gamedev",
                   "gamepad",
@@ -2220,7 +2220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T04:35:59.575Z",
+    "last_updated": "2026-09-24T04:34:15.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
