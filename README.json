@@ -19,7 +19,7 @@
             "open_issues": 338,
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4633,
+            "stars": 4638,
             "topics": [
               "android",
               "game-engine",
@@ -182,7 +182,7 @@
                 "open_issues": 91,
                 "owner": "ozkriff",
                 "repo": "zemeroth",
-                "stars": 1458,
+                "stars": 1459,
                 "topics": [
                   "2d",
                   "android",
@@ -2220,7 +2220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T04:46:21.885Z",
+    "last_updated": "2026-09-27T05:08:53.091Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
