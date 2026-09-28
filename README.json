@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-18T09:37:35Z",
-            "open_issues": 338,
+            "open_issues": 339,
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4638,
+            "stars": 4641,
             "topics": [
               "android",
               "game-engine",
@@ -95,7 +95,7 @@
             "open_issues": 16,
             "owner": "ggez",
             "repo": "good-web-game",
-            "stars": 349,
+            "stars": 347,
             "topics": [
               "game",
               "gamedev",
@@ -785,7 +785,7 @@
                 "open_issues": 5,
                 "owner": "grantshandy",
                 "repo": "fdg",
-                "stars": 231,
+                "stars": 232,
                 "topics": [
                   "force-directed-graphs",
                   "fruchterman-reingold",
@@ -1367,8 +1367,8 @@
             "id": 275495359,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T20:54:50Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-28T01:31:51Z",
+            "open_issues": 18,
             "owner": "naia-lib",
             "repo": "naia",
             "stars": 1179,
@@ -2028,7 +2028,7 @@
                 "language": "Rust",
                 "license": null,
                 "last_commit": "2026-01-04T14:04:44Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "not-fl3",
                 "repo": "quad-rand",
                 "stars": 16,
@@ -2220,7 +2220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T05:08:53.091Z",
+    "last_updated": "2026-09-28T05:11:56.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
@@ -2232,7 +2232,7 @@
       "open_issues": 3,
       "owner": "ozkriff",
       "repo": "awesome-quads",
-      "stars": 256,
+      "stars": 255,
       "topics": [
         "awesome-list",
         "gamedev",
