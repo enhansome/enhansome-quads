@@ -46,7 +46,7 @@
             "open_issues": 164,
             "owner": "not-fl3",
             "repo": "miniquad",
-            "stars": 2063,
+            "stars": 2064,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -646,27 +646,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
-            },
-            {
-              "node_type": "item",
-              "title": "quad_sokoban",
-              "description": "a sokoban game featuring a campaign and a level editor.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 848563107,
-                "language": "Rust",
-                "license": null,
-                "last_commit": "2024-09-14T05:47:39Z",
-                "open_issues": 0,
-                "owner": "puppysh43",
-                "repo": "quad_sokoban",
-                "stars": 0,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T11:12:55.348Z"
             }
           ],
           "description": null,
@@ -758,7 +737,7 @@
                 "open_issues": 0,
                 "owner": "optozorax",
                 "repo": "portal",
-                "stars": 557,
+                "stars": 558,
                 "topics": [
                   "game-development",
                   "portal",
@@ -1367,7 +1346,7 @@
             "id": 275495359,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T13:18:19Z",
+            "last_commit": "2026-10-03T04:05:52Z",
             "open_issues": 18,
             "owner": "naia-lib",
             "repo": "naia",
@@ -2220,7 +2199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T05:24:19.233Z",
+    "last_updated": "2026-10-03T05:06:32.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
