@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-18T09:37:35Z",
-            "open_issues": 340,
+            "open_issues": 341,
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4652,
+            "stars": 4654,
             "topics": [
               "android",
               "game-engine",
@@ -46,7 +46,7 @@
             "open_issues": 166,
             "owner": "not-fl3",
             "repo": "miniquad",
-            "stars": 2065,
+            "stars": 2066,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -182,7 +182,7 @@
                 "open_issues": 91,
                 "owner": "ozkriff",
                 "repo": "zemeroth",
-                "stars": 1459,
+                "stars": 1461,
                 "topics": [
                   "2d",
                   "android",
@@ -1346,11 +1346,11 @@
             "id": 275495359,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T00:01:32Z",
+            "last_commit": "2026-10-08T16:48:20Z",
             "open_issues": 18,
             "owner": "naia-lib",
             "repo": "naia",
-            "stars": 1182,
+            "stars": 1183,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -1800,7 +1800,7 @@
                 "open_issues": 2,
                 "owner": "optozorax",
                 "repo": "quad-storage",
-                "stars": 23,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
@@ -1955,7 +1955,7 @@
                 "open_issues": 2,
                 "owner": "koalefant",
                 "repo": "circle2d",
-                "stars": 28,
+                "stars": 27,
                 "topics": [
                   "miniquad",
                   "physics-2d",
@@ -2199,7 +2199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T05:51:10.848Z",
+    "last_updated": "2026-10-09T05:56:23.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
