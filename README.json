@@ -19,7 +19,7 @@
             "open_issues": 341,
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4654,
+            "stars": 4656,
             "topics": [
               "android",
               "game-engine",
@@ -43,10 +43,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-07-25T17:52:01Z",
-            "open_issues": 166,
+            "open_issues": 175,
             "owner": "not-fl3",
             "repo": "miniquad",
-            "stars": 2066,
+            "stars": 2068,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -737,7 +737,7 @@
                 "open_issues": 0,
                 "owner": "optozorax",
                 "repo": "portal",
-                "stars": 559,
+                "stars": 560,
                 "topics": [
                   "game-development",
                   "portal",
@@ -852,7 +852,7 @@
                 "open_issues": 20,
                 "owner": "yds12",
                 "repo": "tarsila",
-                "stars": 150,
+                "stars": 149,
                 "topics": [
                   "editor",
                   "image-editor",
@@ -1346,7 +1346,7 @@
             "id": 275495359,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T16:48:20Z",
+            "last_commit": "2026-10-10T01:54:11Z",
             "open_issues": 18,
             "owner": "naia-lib",
             "repo": "naia",
@@ -2199,7 +2199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T05:56:23.790Z",
+    "last_updated": "2026-10-10T05:38:59.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
@@ -2211,7 +2211,7 @@
       "open_issues": 3,
       "owner": "ozkriff",
       "repo": "awesome-quads",
-      "stars": 255,
+      "stars": 254,
       "topics": [
         "awesome-list",
         "gamedev",
