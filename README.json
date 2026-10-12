@@ -19,7 +19,7 @@
             "open_issues": 347,
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4658,
+            "stars": 4660,
             "topics": [
               "android",
               "game-engine",
@@ -46,7 +46,7 @@
             "open_issues": 183,
             "owner": "not-fl3",
             "repo": "miniquad",
-            "stars": 2069,
+            "stars": 2070,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -67,7 +67,7 @@
             "open_issues": 28,
             "owner": "Bombfuse",
             "repo": "emerald",
-            "stars": 548,
+            "stars": 547,
             "topics": [
               "2d",
               "game-development",
@@ -95,7 +95,7 @@
             "open_issues": 16,
             "owner": "ggez",
             "repo": "good-web-game",
-            "stars": 348,
+            "stars": 347,
             "topics": [
               "game",
               "gamedev",
@@ -182,7 +182,7 @@
                 "open_issues": 91,
                 "owner": "ozkriff",
                 "repo": "zemeroth",
-                "stars": 1461,
+                "stars": 1460,
                 "topics": [
                   "2d",
                   "android",
@@ -217,7 +217,7 @@
                 "open_issues": 8,
                 "owner": "heroiclabs",
                 "repo": "fishgame-macroquad",
-                "stars": 152,
+                "stars": 151,
                 "topics": [
                   "fish-game",
                   "game",
@@ -266,7 +266,7 @@
                 "open_issues": 11,
                 "owner": "martin-t",
                 "repo": "rec-wars",
-                "stars": 59,
+                "stars": 58,
                 "topics": [
                   "game",
                   "game-2d",
@@ -471,27 +471,6 @@
             },
             {
               "node_type": "item",
-              "title": "Quoridor",
-              "description": "Quoridor implemented in Rust and Macroquad.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Quoridor game implemented in Rust",
-                "homepage": null,
-                "id": 505415499,
-                "language": "Rust",
-                "license": "MIT",
-                "last_commit": "2024-07-13T10:00:18Z",
-                "open_issues": 0,
-                "owner": "baehyunsol",
-                "repo": "Quoridor-rs",
-                "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T11:12:55.348Z"
-            },
-            {
-              "node_type": "item",
               "title": "stunning barnacle",
               "description": "a simulator of primitive artificial life using attraction/reuplsion forces between many particles.",
               "children": [],
@@ -513,6 +492,27 @@
                   "physics",
                   "rust"
                 ]
+              },
+              "first_seen": "2026-08-28T11:12:55.348Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Quoridor",
+              "description": "Quoridor implemented in Rust and Macroquad.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Quoridor game implemented in Rust",
+                "homepage": null,
+                "id": 505415499,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2024-07-13T10:00:18Z",
+                "open_issues": 0,
+                "owner": "baehyunsol",
+                "repo": "Quoridor-rs",
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
             },
@@ -670,7 +670,7 @@
                 "open_issues": 2,
                 "owner": "smokku",
                 "repo": "soldank",
-                "stars": 59,
+                "stars": 58,
                 "topics": [
                   "game",
                   "rust",
@@ -703,7 +703,7 @@
                 "open_issues": 2,
                 "owner": "TanTanDev",
                 "repo": "DigEscape",
-                "stars": 88,
+                "stars": 87,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
@@ -737,7 +737,7 @@
                 "open_issues": 0,
                 "owner": "optozorax",
                 "repo": "portal",
-                "stars": 560,
+                "stars": 559,
                 "topics": [
                   "game-development",
                   "portal",
@@ -793,7 +793,7 @@
                 "open_issues": 7,
                 "owner": "subalterngames",
                 "repo": "cacophony",
-                "stars": 202,
+                "stars": 201,
                 "topics": [
                   "ascii-graphics",
                   "audio",
@@ -852,7 +852,7 @@
                 "open_issues": 20,
                 "owner": "yds12",
                 "repo": "tarsila",
-                "stars": 149,
+                "stars": 148,
                 "topics": [
                   "editor",
                   "image-editor",
@@ -1346,11 +1346,11 @@
             "id": 275495359,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T15:24:22Z",
+            "last_commit": "2026-10-11T22:14:57Z",
             "open_issues": 18,
             "owner": "naia-lib",
             "repo": "naia",
-            "stars": 1184,
+            "stars": 1183,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -1371,7 +1371,7 @@
             "open_issues": 8,
             "owner": "heroiclabs",
             "repo": "fishgame-macroquad",
-            "stars": 152,
+            "stars": 151,
             "topics": [
               "fish-game",
               "game",
@@ -1629,7 +1629,7 @@
                 "open_issues": 0,
                 "owner": "nokola",
                 "repo": "nonaquad",
-                "stars": 40,
+                "stars": 39,
                 "topics": [
                   "2d",
                   "android",
@@ -1776,7 +1776,7 @@
                 "open_issues": 12,
                 "owner": "not-fl3",
                 "repo": "quad-snd",
-                "stars": 134,
+                "stars": 133,
                 "topics": [
                   "audio",
                   "rust"
@@ -1955,7 +1955,7 @@
                 "open_issues": 2,
                 "owner": "koalefant",
                 "repo": "circle2d",
-                "stars": 27,
+                "stars": 26,
                 "topics": [
                   "miniquad",
                   "physics-2d",
@@ -2010,7 +2010,7 @@
                 "open_issues": 7,
                 "owner": "not-fl3",
                 "repo": "quad-rand",
-                "stars": 16,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
@@ -2199,7 +2199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T05:34:40.423Z",
+    "last_updated": "2026-10-12T05:44:49.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
