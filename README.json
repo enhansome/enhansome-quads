@@ -43,7 +43,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-07-25T17:52:01Z",
-            "open_issues": 189,
+            "open_issues": 191,
             "owner": "not-fl3",
             "repo": "miniquad",
             "stars": 2077,
@@ -182,7 +182,7 @@
                 "open_issues": 91,
                 "owner": "ozkriff",
                 "repo": "zemeroth",
-                "stars": 1463,
+                "stars": 1464,
                 "topics": [
                   "2d",
                   "android",
@@ -737,7 +737,7 @@
                 "open_issues": 0,
                 "owner": "optozorax",
                 "repo": "portal",
-                "stars": 562,
+                "stars": 563,
                 "topics": [
                   "game-development",
                   "portal",
@@ -1346,11 +1346,11 @@
             "id": 275495359,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T22:53:53Z",
+            "last_commit": "2026-10-24T03:09:14Z",
             "open_issues": 18,
             "owner": "naia-lib",
             "repo": "naia",
-            "stars": 1183,
+            "stars": 1184,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -1548,7 +1548,7 @@
                 "open_issues": 26,
                 "owner": "not-fl3",
                 "repo": "egui-miniquad",
-                "stars": 105,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
@@ -2199,7 +2199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T04:34:08.733Z",
+    "last_updated": "2026-10-24T04:24:40.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
@@ -2208,7 +2208,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-11T15:19:15Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "ozkriff",
       "repo": "awesome-quads",
       "stars": 257,
