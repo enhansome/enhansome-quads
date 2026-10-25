@@ -19,7 +19,7 @@
             "open_issues": 350,
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4678,
+            "stars": 4679,
             "topics": [
               "android",
               "game-engine",
@@ -737,7 +737,7 @@
                 "open_issues": 0,
                 "owner": "optozorax",
                 "repo": "portal",
-                "stars": 563,
+                "stars": 564,
                 "topics": [
                   "game-development",
                   "portal",
@@ -764,7 +764,7 @@
                 "open_issues": 5,
                 "owner": "grantshandy",
                 "repo": "fdg",
-                "stars": 232,
+                "stars": 233,
                 "topics": [
                   "force-directed-graphs",
                   "fruchterman-reingold",
@@ -1346,11 +1346,11 @@
             "id": 275495359,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T03:09:14Z",
+            "last_commit": "2026-10-25T02:32:12Z",
             "open_issues": 18,
             "owner": "naia-lib",
             "repo": "naia",
-            "stars": 1184,
+            "stars": 1185,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -2199,7 +2199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T04:24:40.392Z",
+    "last_updated": "2026-10-25T04:28:18.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
