@@ -4,10 +4,10 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 ## Game engines
 
-* [macroquad](https://github.com/not-fl3/macroquad) ⭐ 4,679 | 🐛 350 | 🌐 Rust | 📅 2026-08-18 - simple to use library from author of miniquad.
+* [macroquad](https://github.com/not-fl3/macroquad) ⭐ 4,680 | 🐛 350 | 🌐 Rust | 📅 2026-08-18 - simple to use library from author of miniquad.
 * [miniquad](https://github.com/not-fl3/miniquad) ⭐ 2,077 | 🐛 191 | 🌐 Rust | 📅 2026-07-25 - main crate, engines below build on top of it. Supports WASM. Therefore everything build on top of it supports WASM too.
 * [emerald](https://github.com/Bombfuse/emerald) ⚠️ Archived - game engine with physics, audio, graphics, ECS.
-* [good-web-game](https://github.com/not-fl3/good-web-game) ⭐ 347 | 🐛 16 | 🌐 Rust | 📅 2024-05-24 - crate to easily port your [ggez](https://github.com/ggez/ggez) ⭐ 4,716 | 🐛 54 | 🌐 Rust | 📅 2026-10-24 to WASM.
+* [good-web-game](https://github.com/not-fl3/good-web-game) ⭐ 347 | 🐛 16 | 🌐 Rust | 📅 2024-05-24 - crate to easily port your [ggez](https://github.com/ggez/ggez) ⭐ 4,718 | 🐛 54 | 🌐 Rust | 📅 2026-10-24 to WASM.
 * [rust-rpg-toolkit](https://github.com/olefasting/rust_rpg_toolkit) ⭐ 62 | 🐛 0 | 🌐 Rust | 📅 2022-03-08 - a framework for creating customizable and user modifiable action RPG's, using Rust and/or JSON.
 * [omegaquad](https://github.com/gamma-delta/omegaquad) ⭐ 25 | 🐛 1 | 🌐 Rust | 📅 2021-11-10 - hackable, opinionated layer on top of Macroquad for writing games
 
@@ -84,7 +84,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 ### Apps or visualizations: On top of macroquad
 
-* [Portal Explorer](https://github.com/optozorax/portal) ⭐ 564 | 🐛 0 | 🌐 Rust | 📅 2026-10-14 - web visualizator of mind-blowing portals.
+* [Portal Explorer](https://github.com/optozorax/portal) ⭐ 565 | 🐛 0 | 🌐 Rust | 📅 2026-10-14 - web visualizator of mind-blowing portals.
 * [FDG](https://github.com/grantshandy/fdg) ⭐ 233 | 🐛 5 | 🌐 Rust | 📅 2025-03-06 - a Force Directed Graph framework with a macroqad-based visualizator.
 * [cacophony](https://github.com/subalterngames/cacophony) ⭐ 201 | 🐛 7 | 🌐 Rust | 📅 2024-12-10 - a minimalist and ergonomic MIDI sequencer.
 * [PID Controller Simualation](https://github.com/sparshg/pid-balancer) ⭐ 173 | 🐛 2 | 🌐 Rust | 📅 2024-09-25 - a Proportional-Integral-Derivative controller simulation to balance a ball on cart.
@@ -155,10 +155,10 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 ### Libraries: Integrations
 
-* [egui-macroquad](https://github.com/optozorax/egui-macroquad) ⭐ 129 | 🐛 3 | 🌐 Rust | 📅 2025-05-21 - [egui](https://github.com/emilk/egui) ⭐ 31,733 | 🐛 1,080 | 🌐 Rust | 📅 2026-10-22 in macroquad.
-* [egui-miniquad](https://github.com/not-fl3/egui-miniquad) ⭐ 104 | 🐛 26 | 🌐 Rust | 📅 2026-08-04 - [egui](https://github.com/emilk/egui) ⭐ 31,733 | 🐛 1,080 | 🌐 Rust | 📅 2026-10-22 in miniquad.
+* [egui-macroquad](https://github.com/optozorax/egui-macroquad) ⭐ 129 | 🐛 3 | 🌐 Rust | 📅 2025-05-21 - [egui](https://github.com/emilk/egui) ⭐ 31,758 | 🐛 1,081 | 🌐 Rust | 📅 2026-10-22 in macroquad.
+* [egui-miniquad](https://github.com/not-fl3/egui-miniquad) ⭐ 104 | 🐛 26 | 🌐 Rust | 📅 2026-08-04 - [egui](https://github.com/emilk/egui) ⭐ 31,758 | 🐛 1,081 | 🌐 Rust | 📅 2026-10-22 in miniquad.
 * [cvars-console-macroquad](https://github.com/martin-t/cvars) ⭐ 53 | 🐛 15 | 🌐 Rust | 📅 2024-11-15 - in-game console for changing cvars at runtime.
-* [bevy\_miniquad](https://github.com/smokku/bevy_miniquad) ⭐ 50 | 🐛 0 | 🌐 Rust | 📅 2025-04-01 - [bevy](https://github.com/bevyengine/bevy) ⭐ 49,256 | 🐛 3,517 | 🌐 Rust | 📅 2026-10-24 + miniquad.
+* [bevy\_miniquad](https://github.com/smokku/bevy_miniquad) ⭐ 50 | 🐛 0 | 🌐 Rust | 📅 2025-04-01 - [bevy](https://github.com/bevyengine/bevy) ⭐ 49,274 | 🐛 3,519 | 🌐 Rust | 📅 2026-10-26 + miniquad.
 * [nonaquad](https://github.com/nokola/nonaquad) ⭐ 39 | 🐛 0 | 🌐 Rust | 📅 2022-02-18 - vector anti-aliased graphics renderer.
 * [backer](https://github.com/ejjonny/backer/tree/main/examples/macroquad-example) ⭐ 39 | 🐛 0 | 🌐 Rust | 📅 2026-05-30 - a 'plug & play' UI layout crate.
 * [miniquad\_text\_rusttype](https://github.com/not-fl3/miniquad_text_rusttype) ⭐ 7 | 🐛 0 | 🌐 Rust | 📅 2021-03-01 - [rusttype](https://github.com/redox-os/rusttype) ⭐ 638 | 🐛 7 | 🌐 Rust | 📅 2024-02-07 in miniquad.
@@ -187,11 +187,11 @@ Plugin has additional `.js` file, so to use it, you need to do extra work. Befor
 * [nanoshredder](https://github.com/not-fl3/nanoshredder) ⭐ 10 | 🐛 0 | 🌐 Rust | 📅 2023-02-23 - an experimental fork of makepad's shader-compiler that compiles rust-like DSL into GLSL, Metal, and HLSL.
 * [navni](https://github.com/rsaarelm/navni) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2025-02-22 - a textmode/pixel graphics display library.
 * [gesture-recognizer](https://github.com/optozorax/gesture-recognizer) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2024-02-04 - library for recognizing simple touch gestures.
-* [sapp-console-log](https://github.com/canadaduane/sapp-console-log) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2020-02-07 - [log-rs](https://github.com/rust-lang/log) ⭐ 2,556 | 🐛 18 | 🌐 Rust | 📅 2026-10-17 compatible logging for sapp-wasm.
+* [sapp-console-log](https://github.com/canadaduane/sapp-console-log) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2020-02-07 - [log-rs](https://github.com/rust-lang/log) ⭐ 2,557 | 🐛 18 | 🌐 Rust | 📅 2026-10-17 compatible logging for sapp-wasm.
 * [quad-svg](https://github.com/macnelly/quad-svg) ⭐ 5 | 🐛 3 | 🌐 Rust | 📅 2023-05-22 - renders svg to macroquad's Texture2D using [resvg](https://lib.rs/resvg).
 * [sparticles-rs](https://github.com/Norlock/sparticles-rs) ⚠️ Archived - library for making particle systems.
 * [macroquad\_aspect](https://github.com/TheEmeraldBee/macroquad_aspect) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2025-08-14 - an aspect ratio forcer for macroquad.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
