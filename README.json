@@ -19,7 +19,7 @@
             "open_issues": 350,
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4680,
+            "stars": 4683,
             "topics": [
               "android",
               "game-engine",
@@ -46,7 +46,7 @@
             "open_issues": 191,
             "owner": "not-fl3",
             "repo": "miniquad",
-            "stars": 2077,
+            "stars": 2078,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -1776,7 +1776,7 @@
                 "open_issues": 12,
                 "owner": "not-fl3",
                 "repo": "quad-snd",
-                "stars": 134,
+                "stars": 135,
                 "topics": [
                   "audio",
                   "rust"
@@ -2199,7 +2199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T04:31:27.008Z",
+    "last_updated": "2026-10-27T04:50:00.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
@@ -2211,7 +2211,7 @@
       "open_issues": 4,
       "owner": "ozkriff",
       "repo": "awesome-quads",
-      "stars": 257,
+      "stars": 258,
       "topics": [
         "awesome-list",
         "gamedev",
