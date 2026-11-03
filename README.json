@@ -19,7 +19,7 @@
             "open_issues": 350,
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4688,
+            "stars": 4695,
             "topics": [
               "android",
               "game-engine",
@@ -46,7 +46,7 @@
             "open_issues": 192,
             "owner": "not-fl3",
             "repo": "miniquad",
-            "stars": 2082,
+            "stars": 2085,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -1346,7 +1346,7 @@
             "id": 275495359,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T06:49:37Z",
+            "last_commit": "2026-11-02T20:17:06Z",
             "open_issues": 18,
             "owner": "naia-lib",
             "repo": "naia",
@@ -2199,7 +2199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T05:48:46.807Z",
+    "last_updated": "2026-11-03T06:30:59.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
