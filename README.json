@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-18T09:37:35Z",
-            "open_issues": 350,
+            "open_issues": 349,
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4705,
+            "stars": 4714,
             "topics": [
               "android",
               "game-engine",
@@ -43,10 +43,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-07-25T17:52:01Z",
-            "open_issues": 196,
+            "open_issues": 197,
             "owner": "not-fl3",
             "repo": "miniquad",
-            "stars": 2091,
+            "stars": 2092,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -737,7 +737,7 @@
                 "open_issues": 0,
                 "owner": "optozorax",
                 "repo": "portal",
-                "stars": 566,
+                "stars": 567,
                 "topics": [
                   "game-development",
                   "portal",
@@ -1346,7 +1346,7 @@
             "id": 275495359,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T23:48:52Z",
+            "last_commit": "2026-11-10T06:44:11Z",
             "open_issues": 18,
             "owner": "naia-lib",
             "repo": "naia",
@@ -1600,7 +1600,7 @@
                 "open_issues": 0,
                 "owner": "smokku",
                 "repo": "bevy_miniquad",
-                "stars": 50,
+                "stars": 49,
                 "topics": [
                   "bevy",
                   "bevy-miniquad",
@@ -2199,7 +2199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T06:01:43.901Z",
+    "last_updated": "2026-11-10T07:03:29.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
