@@ -67,7 +67,7 @@
             "open_issues": 28,
             "owner": "Bombfuse",
             "repo": "emerald",
-            "stars": 548,
+            "stars": 547,
             "topics": [
               "2d",
               "game-development",
@@ -95,7 +95,7 @@
             "open_issues": 16,
             "owner": "ggez",
             "repo": "good-web-game",
-            "stars": 348,
+            "stars": 347,
             "topics": [
               "game",
               "gamedev",
@@ -182,7 +182,7 @@
                 "open_issues": 91,
                 "owner": "ozkriff",
                 "repo": "zemeroth",
-                "stars": 1465,
+                "stars": 1464,
                 "topics": [
                   "2d",
                   "android",
@@ -737,7 +737,7 @@
                 "open_issues": 0,
                 "owner": "optozorax",
                 "repo": "portal",
-                "stars": 571,
+                "stars": 570,
                 "topics": [
                   "game-development",
                   "portal",
@@ -1350,7 +1350,7 @@
             "open_issues": 18,
             "owner": "naia-lib",
             "repo": "naia",
-            "stars": 1189,
+            "stars": 1188,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -2199,7 +2199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T07:10:08.993Z",
+    "last_updated": "2026-11-20T06:58:47.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
