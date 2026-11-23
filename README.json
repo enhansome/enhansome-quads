@@ -46,7 +46,7 @@
             "open_issues": 198,
             "owner": "not-fl3",
             "repo": "miniquad",
-            "stars": 2095,
+            "stars": 2096,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -737,7 +737,7 @@
                 "open_issues": 0,
                 "owner": "optozorax",
                 "repo": "portal",
-                "stars": 570,
+                "stars": 571,
                 "topics": [
                   "game-development",
                   "portal",
@@ -1521,7 +1521,7 @@
                 "open_issues": 3,
                 "owner": "optozorax",
                 "repo": "egui-macroquad",
-                "stars": 127,
+                "stars": 128,
                 "topics": [
                   "egui",
                   "macroquad",
@@ -2199,7 +2199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T06:30:36.022Z",
+    "last_updated": "2026-11-23T07:21:02.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
