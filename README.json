@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-18T09:37:35Z",
-            "open_issues": 349,
+            "open_issues": 351,
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4737,
+            "stars": 4738,
             "topics": [
               "android",
               "game-engine",
@@ -43,10 +43,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-07-25T17:52:01Z",
-            "open_issues": 202,
+            "open_issues": 203,
             "owner": "not-fl3",
             "repo": "miniquad",
-            "stars": 2096,
+            "stars": 2097,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -123,7 +123,7 @@
             "open_issues": 0,
             "owner": "olefasting",
             "repo": "rust_rpg_toolkit",
-            "stars": 62,
+            "stars": 63,
             "topics": [
               "2d-engine",
               "game",
@@ -182,7 +182,7 @@
                 "open_issues": 91,
                 "owner": "ozkriff",
                 "repo": "zemeroth",
-                "stars": 1464,
+                "stars": 1463,
                 "topics": [
                   "2d",
                   "android",
@@ -737,7 +737,7 @@
                 "open_issues": 0,
                 "owner": "optozorax",
                 "repo": "portal",
-                "stars": 571,
+                "stars": 572,
                 "topics": [
                   "game-development",
                   "portal",
@@ -852,7 +852,7 @@
                 "open_issues": 20,
                 "owner": "yds12",
                 "repo": "tarsila",
-                "stars": 148,
+                "stars": 149,
                 "topics": [
                   "editor",
                   "image-editor",
@@ -954,7 +954,7 @@
                 "open_issues": 0,
                 "owner": "gale93",
                 "repo": "sbixel",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
@@ -1076,7 +1076,7 @@
                 "open_issues": 0,
                 "owner": "kul-sudo",
                 "repo": "eportal",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
@@ -1255,7 +1255,7 @@
                 "open_issues": 0,
                 "owner": "Markek1",
                 "repo": "Collision-Simulator",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:12:55.348Z"
@@ -1346,11 +1346,11 @@
             "id": 275495359,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T09:31:31Z",
+            "last_commit": "2026-11-25T03:36:57Z",
             "open_issues": 19,
             "owner": "naia-lib",
             "repo": "naia",
-            "stars": 1189,
+            "stars": 1188,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:55.348Z"
@@ -2199,7 +2199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T09:42:09.431Z",
+    "last_updated": "2026-11-25T08:14:41.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources",
@@ -2211,7 +2211,7 @@
       "open_issues": 4,
       "owner": "ozkriff",
       "repo": "awesome-quads",
-      "stars": 260,
+      "stars": 261,
       "topics": [
         "awesome-list",
         "gamedev",
